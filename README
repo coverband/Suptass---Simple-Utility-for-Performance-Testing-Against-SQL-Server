@@ -1,0 +1,54 @@
+SUPTASS v1.0
+	Simple Utility for Performance Testing Against SQL Server
+
+OVERVIEW
+	A small .NET command line application that provides a quick and simple performance analysis of how SQL Server will respond when the same stored procedure or SQL statement is executed multiple times, from multiple connections. The user can control the level of stress to be applied to the database using the following input arguments:
+		* No. of client instances -- specifies the number of separate connections to the database. 
+		* Total runtime in minutes -- for how long the stress/performance testing should continue
+		* Query Interval in seconds -- Wait time for the repeat query on the same connection after the previous query has completed its execution. The actual wait time will be slightly higher on average than what's specified, since the app will add a small random delay to balance the test run.
+		
+	The connection string for the SQL Server and the query/stored procedure to execute is managed in the companion Suptass.exe.config file in the same directory. The user needs to update this file using Notepad or another text editor prior to starting the test runs.
+	
+	For a more exhaustive test run using different queries simultaneously, the user can copy the .EXE and .Config files to a separate folder, update the query in the second config file, and run both executables at the same time.
+	
+	This project and its binaries are free software (licensed under the Apache License v2.0) and can be used and modified without permission.
+	
+REQUIREMENTS
+	- Suptass works on Windows, and .NET framework (version 2 or later) is the only requirement.
+	
+	- To recompile or modify the project files, use Visual Studio (C#) 2008 Express or above.
+	
+CONFIGURATION
+	Before running the client application, edit the included .config file to customize the following:
+		1. ConnectionString (SQL Server instance, database, user name and password)
+		2. ExecuteDbString (stored procedure name & parameters or a SQL query)
+		3. LogOutput (set to "true" by default, change to "false" to skip the log file generation)  
+		4. LogFilePath ("suptass_{DATE}.log" by default). The {DATE} parameter will add a timestamp to the log file name.
+
+HOW TO RUN
+	After updating the configuration file, open a command prompt in the application folder and type:
+		suptass.exe <No. of instances> <Tot. Runtime (mins)> <Interval (secs)>
+
+	The console will start reporting the activity. The DB query will be run repeatedly by each instance throughout the specified run time.
+	
+TROUBLESHOOTING
+	First, be advised that this code and the related binaries are provided "as is" and there are no warranties or support options. Having said that, if you see any error prompts, try to connect to the same database and run the same query from another database application. If this also fails, either the configuration is wrong or the database is not accessible.
+
+
+LICENSING
+   Copyright (c) 2012, Next Sprint LLC. http://www.nextsprint.com
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+Thanks for using this application and I hope it does a great job for you.
+Email me at admin [_at_] nextsprint.com for suggestions or feedback.	

@@ -1,0 +1,1271 @@
+2012-03-05 12:01:41.547: Stress test expected to finish by -> 3/5/2012 12:03:41 PM
+2012-03-05 12:01:41.562: Starting thread #2
+2012-03-05 12:01:41.562: Starting thread #1
+2012-03-05 12:01:41.564: Starting thread #0
+2012-03-05 12:01:41.568: Starting thread #3
+2012-03-05 12:01:41.572: Starting thread #4
+2012-03-05 12:01:41.576: Starting thread #5
+2012-03-05 12:01:41.586: Starting thread #6
+2012-03-05 12:01:41.591: Starting thread #7
+2012-03-05 12:01:41.596: Starting thread #8
+2012-03-05 12:01:41.598: Starting thread #9
+2012-03-05 12:01:41.656: Starting 1st run in thread #1
+2012-03-05 12:01:41.785: Starting 1st run in thread #2
+2012-03-05 12:01:41.808: Iterated through 1 records in thread #1
+2012-03-05 12:01:41.808: Query completed in 151 milliseconds for cycle 1, thread #1
+2012-03-05 12:01:41.810: Iterated through 1 records in thread #2
+2012-03-05 12:01:41.810: Query completed in 24 milliseconds for cycle 1, thread #2
+2012-03-05 12:01:41.887: Starting 1st run in thread #3
+2012-03-05 12:01:41.892: Iterated through 1 records in thread #3
+2012-03-05 12:01:41.892: Query completed in 4 milliseconds for cycle 1, thread #3
+2012-03-05 12:01:42.011: Starting 1st run in thread #0
+2012-03-05 12:01:42.016: Iterated through 1 records in thread #0
+2012-03-05 12:01:42.016: Query completed in 4 milliseconds for cycle 1, thread #0
+2012-03-05 12:01:42.043: Started all threads
+2012-03-05 12:01:42.107: Starting 1st run in thread #5
+2012-03-05 12:01:42.110: Starting 1st run in thread #4
+2012-03-05 12:01:42.112: Iterated through 1 records in thread #5
+2012-03-05 12:01:42.112: Query completed in 5 milliseconds for cycle 1, thread #5
+2012-03-05 12:01:42.117: Iterated through 1 records in thread #4
+2012-03-05 12:01:42.117: Query completed in 6 milliseconds for cycle 1, thread #4
+2012-03-05 12:01:42.219: Starting 1st run in thread #7
+2012-03-05 12:01:42.224: Iterated through 1 records in thread #7
+2012-03-05 12:01:42.224: Query completed in 5 milliseconds for cycle 1, thread #7
+2012-03-05 12:01:42.343: Starting 1st run in thread #6
+2012-03-05 12:01:42.349: Iterated through 1 records in thread #6
+2012-03-05 12:01:42.349: Query completed in 5 milliseconds for cycle 1, thread #6
+2012-03-05 12:01:42.464: Starting 1st run in thread #9
+2012-03-05 12:01:42.467: Starting 1st run in thread #8
+2012-03-05 12:01:42.469: Iterated through 1 records in thread #9
+2012-03-05 12:01:42.469: Query completed in 5 milliseconds for cycle 1, thread #9
+2012-03-05 12:01:42.482: Iterated through 1 records in thread #8
+2012-03-05 12:01:42.482: Query completed in 14 milliseconds for cycle 1, thread #8
+2012-03-05 12:01:44.273: Starting 2nd run in thread #1
+2012-03-05 12:01:44.275: Iterated through 1 records in thread #1
+2012-03-05 12:01:44.275: Query completed in 2 milliseconds for cycle 2, thread #1
+2012-03-05 12:01:44.350: Starting 2nd run in thread #2
+2012-03-05 12:01:44.352: Iterated through 1 records in thread #2
+2012-03-05 12:01:44.352: Query completed in 1 milliseconds for cycle 2, thread #2
+2012-03-05 12:01:44.442: Starting 2nd run in thread #3
+2012-03-05 12:01:44.445: Iterated through 1 records in thread #3
+2012-03-05 12:01:44.445: Query completed in 2 milliseconds for cycle 2, thread #3
+2012-03-05 12:01:44.494: Starting 2nd run in thread #0
+2012-03-05 12:01:44.497: Iterated through 1 records in thread #0
+2012-03-05 12:01:44.497: Query completed in 2 milliseconds for cycle 2, thread #0
+2012-03-05 12:01:44.522: Starting 2nd run in thread #5
+2012-03-05 12:01:44.523: Iterated through 1 records in thread #5
+2012-03-05 12:01:44.523: Query completed in 1 milliseconds for cycle 2, thread #5
+2012-03-05 12:01:44.619: Starting 2nd run in thread #4
+2012-03-05 12:01:44.622: Iterated through 1 records in thread #4
+2012-03-05 12:01:44.622: Query completed in 2 milliseconds for cycle 2, thread #4
+2012-03-05 12:01:44.653: Starting 2nd run in thread #6
+2012-03-05 12:01:44.655: Iterated through 1 records in thread #6
+2012-03-05 12:01:44.655: Query completed in 2 milliseconds for cycle 2, thread #6
+2012-03-05 12:01:44.667: Starting 2nd run in thread #8
+2012-03-05 12:01:44.669: Iterated through 1 records in thread #8
+2012-03-05 12:01:44.669: Query completed in 2 milliseconds for cycle 2, thread #8
+2012-03-05 12:01:44.757: Starting 2nd run in thread #7
+2012-03-05 12:01:44.760: Iterated through 1 records in thread #7
+2012-03-05 12:01:44.760: Query completed in 2 milliseconds for cycle 2, thread #7
+2012-03-05 12:01:44.778: Starting 2nd run in thread #9
+2012-03-05 12:01:44.781: Iterated through 1 records in thread #9
+2012-03-05 12:01:44.781: Query completed in 2 milliseconds for cycle 2, thread #9
+2012-03-05 12:01:46.971: Starting 3rd run in thread #2
+2012-03-05 12:01:46.974: Iterated through 1 records in thread #2
+2012-03-05 12:01:46.974: Query completed in 2 milliseconds for cycle 3, thread #2
+2012-03-05 12:01:47.053: Starting 3rd run in thread #1
+2012-03-05 12:01:47.054: Iterated through 1 records in thread #1
+2012-03-05 12:01:47.054: Query completed in 1 milliseconds for cycle 3, thread #1
+2012-03-05 12:01:47.159: Starting 3rd run in thread #3
+2012-03-05 12:01:47.163: Iterated through 1 records in thread #3
+2012-03-05 12:01:47.163: Query completed in 3 milliseconds for cycle 3, thread #3
+2012-03-05 12:01:47.180: Starting 3rd run in thread #0
+2012-03-05 12:01:47.184: Iterated through 1 records in thread #0
+2012-03-05 12:01:47.184: Query completed in 3 milliseconds for cycle 3, thread #0
+2012-03-05 12:01:47.206: Starting 3rd run in thread #4
+2012-03-05 12:01:47.209: Iterated through 1 records in thread #4
+2012-03-05 12:01:47.209: Query completed in 2 milliseconds for cycle 3, thread #4
+2012-03-05 12:01:47.233: Starting 3rd run in thread #5
+2012-03-05 12:01:47.235: Iterated through 1 records in thread #5
+2012-03-05 12:01:47.235: Query completed in 2 milliseconds for cycle 3, thread #5
+2012-03-05 12:01:47.331: Starting 3rd run in thread #8
+2012-03-05 12:01:47.335: Iterated through 1 records in thread #8
+2012-03-05 12:01:47.335: Query completed in 3 milliseconds for cycle 3, thread #8
+2012-03-05 12:01:47.350: Starting 3rd run in thread #9
+2012-03-05 12:01:47.353: Iterated through 1 records in thread #9
+2012-03-05 12:01:47.353: Query completed in 2 milliseconds for cycle 3, thread #9
+2012-03-05 12:01:47.386: Starting 3rd run in thread #7
+2012-03-05 12:01:47.388: Iterated through 1 records in thread #7
+2012-03-05 12:01:47.388: Query completed in 1 milliseconds for cycle 3, thread #7
+2012-03-05 12:01:47.441: Starting 3rd run in thread #6
+2012-03-05 12:01:47.444: Iterated through 1 records in thread #6
+2012-03-05 12:01:47.444: Query completed in 2 milliseconds for cycle 3, thread #6
+2012-03-05 12:01:49.673: Starting 4th run in thread #3
+2012-03-05 12:01:49.676: Iterated through 1 records in thread #3
+2012-03-05 12:01:49.676: Query completed in 2 milliseconds for cycle 4, thread #3
+2012-03-05 12:01:49.842: Starting 4th run in thread #0
+2012-03-05 12:01:49.842: Starting 4th run in thread #1
+2012-03-05 12:01:49.844: Iterated through 1 records in thread #0
+2012-03-05 12:01:49.844: Query completed in 2 milliseconds for cycle 4, thread #0
+2012-03-05 12:01:49.847: Iterated through 1 records in thread #1
+2012-03-05 12:01:49.847: Query completed in 4 milliseconds for cycle 4, thread #1
+2012-03-05 12:01:49.906: Starting 4th run in thread #2
+2012-03-05 12:01:49.908: Iterated through 1 records in thread #2
+2012-03-05 12:01:49.908: Query completed in 1 milliseconds for cycle 4, thread #2
+2012-03-05 12:01:49.965: Starting 4th run in thread #4
+2012-03-05 12:01:49.969: Iterated through 1 records in thread #4
+2012-03-05 12:01:49.969: Query completed in 3 milliseconds for cycle 4, thread #4
+2012-03-05 12:01:49.985: Starting 4th run in thread #7
+2012-03-05 12:01:49.988: Iterated through 1 records in thread #7
+2012-03-05 12:01:49.988: Query completed in 2 milliseconds for cycle 4, thread #7
+2012-03-05 12:01:50.032: Starting 4th run in thread #5
+2012-03-05 12:01:50.035: Iterated through 1 records in thread #5
+2012-03-05 12:01:50.035: Query completed in 2 milliseconds for cycle 4, thread #5
+2012-03-05 12:01:50.065: Starting 4th run in thread #8
+2012-03-05 12:01:50.068: Iterated through 1 records in thread #8
+2012-03-05 12:01:50.068: Query completed in 2 milliseconds for cycle 4, thread #8
+2012-03-05 12:01:50.156: Starting 4th run in thread #6
+2012-03-05 12:01:50.160: Iterated through 1 records in thread #6
+2012-03-05 12:01:50.160: Query completed in 3 milliseconds for cycle 4, thread #6
+2012-03-05 12:01:50.176: Starting 4th run in thread #9
+2012-03-05 12:01:50.366: Iterated through 1 records in thread #9
+2012-03-05 12:01:50.366: Query completed in 190 milliseconds for cycle 4, thread #9
+2012-03-05 12:01:52.600: Starting 5th run in thread #2
+2012-03-05 12:01:52.726: Iterated through 1 records in thread #2
+2012-03-05 12:01:52.726: Query completed in 125 milliseconds for cycle 5, thread #2
+2012-03-05 12:01:52.735: Starting 5th run in thread #3
+2012-03-05 12:01:52.739: Iterated through 1 records in thread #3
+2012-03-05 12:01:52.739: Query completed in 3 milliseconds for cycle 5, thread #3
+2012-03-05 12:01:52.743: Starting 5th run in thread #4
+2012-03-05 12:01:52.745: Iterated through 1 records in thread #4
+2012-03-05 12:01:52.745: Query completed in 1 milliseconds for cycle 5, thread #4
+2012-03-05 12:01:52.763: Starting 5th run in thread #1
+2012-03-05 12:01:52.769: Iterated through 1 records in thread #1
+2012-03-05 12:01:52.769: Query completed in 5 milliseconds for cycle 5, thread #1
+2012-03-05 12:01:52.786: Starting 5th run in thread #0
+2012-03-05 12:01:52.798: Iterated through 1 records in thread #0
+2012-03-05 12:01:52.798: Query completed in 11 milliseconds for cycle 5, thread #0
+2012-03-05 12:01:52.882: Starting 5th run in thread #5
+2012-03-05 12:01:52.885: Iterated through 1 records in thread #5
+2012-03-05 12:01:52.885: Query completed in 2 milliseconds for cycle 5, thread #5
+2012-03-05 12:01:52.905: Starting 5th run in thread #7
+2012-03-05 12:01:52.908: Iterated through 1 records in thread #7
+2012-03-05 12:01:52.908: Query completed in 2 milliseconds for cycle 5, thread #7
+2012-03-05 12:01:52.987: Starting 5th run in thread #9
+2012-03-05 12:01:52.992: Iterated through 1 records in thread #9
+2012-03-05 12:01:52.992: Query completed in 4 milliseconds for cycle 5, thread #9
+2012-03-05 12:01:53.039: Starting 5th run in thread #6
+2012-03-05 12:01:53.042: Iterated through 1 records in thread #6
+2012-03-05 12:01:53.042: Query completed in 2 milliseconds for cycle 5, thread #6
+2012-03-05 12:01:53.126: Starting 5th run in thread #8
+2012-03-05 12:01:53.129: Iterated through 1 records in thread #8
+2012-03-05 12:01:53.129: Query completed in 2 milliseconds for cycle 5, thread #8
+2012-03-05 12:01:55.577: Starting 6th run in thread #3
+2012-03-05 12:01:55.614: Starting 6th run in thread #2
+2012-03-05 12:01:55.651: Starting 6th run in thread #1
+2012-03-05 12:01:55.717: Iterated through 1 records in thread #3
+2012-03-05 12:01:55.717: Query completed in 140 milliseconds for cycle 6, thread #3
+2012-03-05 12:01:55.718: Iterated through 1 records in thread #2
+2012-03-05 12:01:55.718: Query completed in 103 milliseconds for cycle 6, thread #2
+2012-03-05 12:01:55.718: Iterated through 1 records in thread #1
+2012-03-05 12:01:55.718: Query completed in 67 milliseconds for cycle 6, thread #1
+2012-03-05 12:01:55.734: Starting 6th run in thread #4
+2012-03-05 12:01:55.737: Iterated through 1 records in thread #4
+2012-03-05 12:01:55.737: Query completed in 2 milliseconds for cycle 6, thread #4
+2012-03-05 12:01:55.882: Starting 6th run in thread #0
+2012-03-05 12:01:55.885: Iterated through 1 records in thread #0
+2012-03-05 12:01:55.885: Query completed in 2 milliseconds for cycle 6, thread #0
+2012-03-05 12:01:55.973: Starting 6th run in thread #6
+2012-03-05 12:01:55.976: Iterated through 1 records in thread #6
+2012-03-05 12:01:55.976: Query completed in 2 milliseconds for cycle 6, thread #6
+2012-03-05 12:01:55.992: Starting 6th run in thread #5
+2012-03-05 12:01:55.994: Iterated through 1 records in thread #5
+2012-03-05 12:01:55.994: Query completed in 2 milliseconds for cycle 6, thread #5
+2012-03-05 12:01:56.084: Starting 6th run in thread #7
+2012-03-05 12:01:56.086: Iterated through 1 records in thread #7
+2012-03-05 12:01:56.086: Query completed in 1 milliseconds for cycle 6, thread #7
+2012-03-05 12:01:56.120: Starting 6th run in thread #9
+2012-03-05 12:01:56.123: Iterated through 1 records in thread #9
+2012-03-05 12:01:56.123: Query completed in 2 milliseconds for cycle 6, thread #9
+2012-03-05 12:01:56.139: Starting 6th run in thread #8
+2012-03-05 12:01:56.141: Iterated through 1 records in thread #8
+2012-03-05 12:01:56.141: Query completed in 2 milliseconds for cycle 6, thread #8
+2012-03-05 12:01:58.550: Starting 7th run in thread #3
+2012-03-05 12:01:58.553: Iterated through 1 records in thread #3
+2012-03-05 12:01:58.553: Query completed in 2 milliseconds for cycle 7, thread #3
+2012-03-05 12:01:58.581: Starting 7th run in thread #1
+2012-03-05 12:01:58.585: Iterated through 1 records in thread #1
+2012-03-05 12:01:58.585: Query completed in 3 milliseconds for cycle 7, thread #1
+2012-03-05 12:01:58.713: Starting 7th run in thread #2
+2012-03-05 12:01:58.715: Iterated through 1 records in thread #2
+2012-03-05 12:01:58.715: Query completed in 2 milliseconds for cycle 7, thread #2
+2012-03-05 12:01:58.760: Starting 7th run in thread #5
+2012-03-05 12:01:58.763: Iterated through 1 records in thread #5
+2012-03-05 12:01:58.763: Query completed in 2 milliseconds for cycle 7, thread #5
+2012-03-05 12:01:58.791: Starting 7th run in thread #4
+2012-03-05 12:01:58.820: Starting 7th run in thread #0
+2012-03-05 12:01:58.823: Iterated through 1 records in thread #4
+2012-03-05 12:01:58.823: Query completed in 31 milliseconds for cycle 7, thread #4
+2012-03-05 12:01:58.836: Starting 7th run in thread #7
+2012-03-05 12:01:58.883: Iterated through 1 records in thread #0
+2012-03-05 12:01:58.883: Query completed in 62 milliseconds for cycle 7, thread #0
+2012-03-05 12:01:58.883: Iterated through 1 records in thread #7
+2012-03-05 12:01:58.883: Query completed in 47 milliseconds for cycle 7, thread #7
+2012-03-05 12:01:58.938: Starting 7th run in thread #6
+2012-03-05 12:01:58.943: Iterated through 1 records in thread #6
+2012-03-05 12:01:58.943: Query completed in 4 milliseconds for cycle 7, thread #6
+2012-03-05 12:01:59.028: Starting 7th run in thread #8
+2012-03-05 12:01:59.039: Iterated through 1 records in thread #8
+2012-03-05 12:01:59.039: Query completed in 11 milliseconds for cycle 7, thread #8
+2012-03-05 12:01:59.159: Starting 7th run in thread #9
+2012-03-05 12:01:59.170: Iterated through 1 records in thread #9
+2012-03-05 12:01:59.170: Query completed in 10 milliseconds for cycle 7, thread #9
+2012-03-05 12:02:01.775: Starting 8th run in thread #2
+2012-03-05 12:02:01.782: Iterated through 1 records in thread #2
+2012-03-05 12:02:01.782: Query completed in 6 milliseconds for cycle 8, thread #2
+2012-03-05 12:02:01.925: Starting 8th run in thread #0
+2012-03-05 12:02:01.932: Iterated through 1 records in thread #0
+2012-03-05 12:02:01.932: Query completed in 6 milliseconds for cycle 8, thread #0
+2012-03-05 12:02:01.937: Starting 8th run in thread #1
+2012-03-05 12:02:01.938: Starting 8th run in thread #3
+2012-03-05 12:02:01.940: Iterated through 1 records in thread #1
+2012-03-05 12:02:01.940: Query completed in 3 milliseconds for cycle 8, thread #1
+2012-03-05 12:02:01.943: Iterated through 1 records in thread #3
+2012-03-05 12:02:01.943: Query completed in 5 milliseconds for cycle 8, thread #3
+2012-03-05 12:02:02.078: Starting 8th run in thread #4
+2012-03-05 12:02:02.083: Iterated through 1 records in thread #4
+2012-03-05 12:02:02.083: Query completed in 5 milliseconds for cycle 8, thread #4
+2012-03-05 12:02:02.090: Starting 8th run in thread #6
+2012-03-05 12:02:02.092: Iterated through 1 records in thread #6
+2012-03-05 12:02:02.092: Query completed in 2 milliseconds for cycle 8, thread #6
+2012-03-05 12:02:02.240: Starting 8th run in thread #8
+2012-03-05 12:02:02.243: Iterated through 1 records in thread #8
+2012-03-05 12:02:02.243: Query completed in 3 milliseconds for cycle 8, thread #8
+2012-03-05 12:02:02.249: Starting 8th run in thread #5
+2012-03-05 12:02:02.252: Iterated through 1 records in thread #5
+2012-03-05 12:02:02.252: Query completed in 3 milliseconds for cycle 8, thread #5
+2012-03-05 12:02:02.392: Starting 8th run in thread #7
+2012-03-05 12:02:02.398: Iterated through 1 records in thread #7
+2012-03-05 12:02:02.398: Query completed in 5 milliseconds for cycle 8, thread #7
+2012-03-05 12:02:02.487: Starting 8th run in thread #9
+2012-03-05 12:02:02.491: Iterated through 1 records in thread #9
+2012-03-05 12:02:02.491: Query completed in 4 milliseconds for cycle 8, thread #9
+2012-03-05 12:02:04.895: Starting 9th run in thread #1
+2012-03-05 12:02:04.898: Iterated through 1 records in thread #1
+2012-03-05 12:02:04.898: Query completed in 3 milliseconds for cycle 9, thread #1
+2012-03-05 12:02:04.935: Starting 9th run in thread #2
+2012-03-05 12:02:04.938: Iterated through 1 records in thread #2
+2012-03-05 12:02:04.938: Query completed in 3 milliseconds for cycle 9, thread #2
+2012-03-05 12:02:04.975: Starting 9th run in thread #3
+2012-03-05 12:02:04.981: Iterated through 1 records in thread #3
+2012-03-05 12:02:04.981: Query completed in 5 milliseconds for cycle 9, thread #3
+2012-03-05 12:02:05.051: Starting 9th run in thread #4
+2012-03-05 12:02:05.057: Iterated through 1 records in thread #4
+2012-03-05 12:02:05.057: Query completed in 5 milliseconds for cycle 9, thread #4
+2012-03-05 12:02:05.132: Starting 9th run in thread #5
+2012-03-05 12:02:05.136: Iterated through 1 records in thread #5
+2012-03-05 12:02:05.136: Query completed in 4 milliseconds for cycle 9, thread #5
+2012-03-05 12:02:05.198: Starting 9th run in thread #0
+2012-03-05 12:02:05.201: Iterated through 1 records in thread #0
+2012-03-05 12:02:05.201: Query completed in 3 milliseconds for cycle 9, thread #0
+2012-03-05 12:02:05.214: Starting 9th run in thread #6
+2012-03-05 12:02:05.218: Iterated through 1 records in thread #6
+2012-03-05 12:02:05.218: Query completed in 4 milliseconds for cycle 9, thread #6
+2012-03-05 12:02:05.231: Starting 9th run in thread #9
+2012-03-05 12:02:05.235: Iterated through 1 records in thread #9
+2012-03-05 12:02:05.235: Query completed in 4 milliseconds for cycle 9, thread #9
+2012-03-05 12:02:05.331: Starting 9th run in thread #7
+2012-03-05 12:02:05.338: Iterated through 1 records in thread #7
+2012-03-05 12:02:05.338: Query completed in 6 milliseconds for cycle 9, thread #7
+2012-03-05 12:02:05.450: Starting 9th run in thread #8
+2012-03-05 12:02:05.453: Iterated through 1 records in thread #8
+2012-03-05 12:02:05.453: Query completed in 3 milliseconds for cycle 9, thread #8
+2012-03-05 12:02:08.115: Starting 10th run in thread #2
+2012-03-05 12:02:08.119: Iterated through 1 records in thread #2
+2012-03-05 12:02:08.119: Query completed in 4 milliseconds for cycle 10, thread #2
+2012-03-05 12:02:08.218: Starting 10th run in thread #0
+2012-03-05 12:02:08.222: Iterated through 1 records in thread #0
+2012-03-05 12:02:08.222: Query completed in 4 milliseconds for cycle 10, thread #0
+2012-03-05 12:02:08.233: Starting 10th run in thread #3
+2012-03-05 12:02:08.236: Iterated through 1 records in thread #3
+2012-03-05 12:02:08.236: Query completed in 2 milliseconds for cycle 10, thread #3
+2012-03-05 12:02:08.260: Starting 10th run in thread #5
+2012-03-05 12:02:08.262: Iterated through 1 records in thread #5
+2012-03-05 12:02:08.262: Query completed in 2 milliseconds for cycle 10, thread #5
+2012-03-05 12:02:08.319: Starting 10th run in thread #1
+2012-03-05 12:02:08.330: Iterated through 1 records in thread #1
+2012-03-05 12:02:08.330: Query completed in 10 milliseconds for cycle 10, thread #1
+2012-03-05 12:02:08.372: Starting 10th run in thread #4
+2012-03-05 12:02:08.377: Iterated through 1 records in thread #4
+2012-03-05 12:02:08.377: Query completed in 5 milliseconds for cycle 10, thread #4
+2012-03-05 12:02:08.394: Starting 10th run in thread #6
+2012-03-05 12:02:08.396: Iterated through 1 records in thread #6
+2012-03-05 12:02:08.396: Query completed in 2 milliseconds for cycle 10, thread #6
+2012-03-05 12:02:08.404: Starting 10th run in thread #8
+2012-03-05 12:02:08.407: Iterated through 1 records in thread #8
+2012-03-05 12:02:08.407: Query completed in 3 milliseconds for cycle 10, thread #8
+2012-03-05 12:02:08.540: Starting 10th run in thread #7
+2012-03-05 12:02:08.543: Iterated through 1 records in thread #7
+2012-03-05 12:02:08.543: Query completed in 3 milliseconds for cycle 10, thread #7
+2012-03-05 12:02:08.569: Starting 10th run in thread #9
+2012-03-05 12:02:08.573: Iterated through 1 records in thread #9
+2012-03-05 12:02:08.573: Query completed in 3 milliseconds for cycle 10, thread #9
+2012-03-05 12:02:11.480: Starting 11th run in thread #1
+2012-03-05 12:02:11.485: Iterated through 1 records in thread #1
+2012-03-05 12:02:11.485: Query completed in 4 milliseconds for cycle 11, thread #1
+2012-03-05 12:02:11.576: Starting 11th run in thread #4
+2012-03-05 12:02:11.579: Iterated through 1 records in thread #4
+2012-03-05 12:02:11.579: Query completed in 3 milliseconds for cycle 11, thread #4
+2012-03-05 12:02:11.594: Starting 11th run in thread #0
+2012-03-05 12:02:11.598: Iterated through 1 records in thread #0
+2012-03-05 12:02:11.598: Query completed in 3 milliseconds for cycle 11, thread #0
+2012-03-05 12:02:11.649: Starting 11th run in thread #3
+2012-03-05 12:02:11.653: Iterated through 1 records in thread #3
+2012-03-05 12:02:11.653: Query completed in 3 milliseconds for cycle 11, thread #3
+2012-03-05 12:02:11.743: Starting 11th run in thread #2
+2012-03-05 12:02:11.752: Iterated through 1 records in thread #2
+2012-03-05 12:02:11.752: Query completed in 9 milliseconds for cycle 11, thread #2
+2012-03-05 12:02:11.814: Starting 11th run in thread #7
+2012-03-05 12:02:11.819: Starting 11th run in thread #8
+2012-03-05 12:02:11.820: Iterated through 1 records in thread #7
+2012-03-05 12:02:11.820: Query completed in 5 milliseconds for cycle 11, thread #7
+2012-03-05 12:02:11.828: Iterated through 1 records in thread #8
+2012-03-05 12:02:11.828: Query completed in 9 milliseconds for cycle 11, thread #8
+2012-03-05 12:02:11.852: Starting 11th run in thread #6
+2012-03-05 12:02:11.859: Iterated through 1 records in thread #6
+2012-03-05 12:02:11.859: Query completed in 6 milliseconds for cycle 11, thread #6
+2012-03-05 12:02:11.928: Starting 11th run in thread #5
+2012-03-05 12:02:11.933: Iterated through 1 records in thread #5
+2012-03-05 12:02:11.933: Query completed in 4 milliseconds for cycle 11, thread #5
+2012-03-05 12:02:12.149: Starting 11th run in thread #9
+2012-03-05 12:02:12.152: Iterated through 1 records in thread #9
+2012-03-05 12:02:12.152: Query completed in 3 milliseconds for cycle 11, thread #9
+2012-03-05 12:02:15.053: Starting 12th run in thread #2
+2012-03-05 12:02:15.056: Iterated through 1 records in thread #2
+2012-03-05 12:02:15.056: Query completed in 3 milliseconds for cycle 12, thread #2
+2012-03-05 12:02:15.131: Starting 12th run in thread #1
+2012-03-05 12:02:15.135: Iterated through 1 records in thread #1
+2012-03-05 12:02:15.135: Query completed in 4 milliseconds for cycle 12, thread #1
+2012-03-05 12:02:15.230: Starting 12th run in thread #0
+2012-03-05 12:02:15.234: Iterated through 1 records in thread #0
+2012-03-05 12:02:15.234: Query completed in 4 milliseconds for cycle 12, thread #0
+2012-03-05 12:02:15.268: Starting 12th run in thread #5
+2012-03-05 12:02:15.273: Iterated through 1 records in thread #5
+2012-03-05 12:02:15.273: Query completed in 4 milliseconds for cycle 12, thread #5
+2012-03-05 12:02:15.274: Starting 12th run in thread #4
+2012-03-05 12:02:15.277: Iterated through 1 records in thread #4
+2012-03-05 12:02:15.277: Query completed in 3 milliseconds for cycle 12, thread #4
+2012-03-05 12:02:15.291: Starting 12th run in thread #6
+2012-03-05 12:02:15.295: Iterated through 1 records in thread #6
+2012-03-05 12:02:15.295: Query completed in 3 milliseconds for cycle 12, thread #6
+2012-03-05 12:02:15.331: Starting 12th run in thread #3
+2012-03-05 12:02:15.335: Iterated through 1 records in thread #3
+2012-03-05 12:02:15.335: Query completed in 4 milliseconds for cycle 12, thread #3
+2012-03-05 12:02:15.471: Starting 12th run in thread #9
+2012-03-05 12:02:15.475: Iterated through 1 records in thread #9
+2012-03-05 12:02:15.475: Query completed in 3 milliseconds for cycle 12, thread #9
+2012-03-05 12:02:15.532: Starting 12th run in thread #8
+2012-03-05 12:02:15.545: Iterated through 1 records in thread #8
+2012-03-05 12:02:15.605: Starting 12th run in thread #7
+2012-03-05 12:02:15.545: Query completed in 12 milliseconds for cycle 12, thread #8
+2012-03-05 12:02:17.305: Iterated through 1 records in thread #7
+2012-03-05 12:02:17.305: Query completed in 699 milliseconds for cycle 12, thread #7
+2012-03-05 12:02:18.623: Starting 13th run in thread #2
+2012-03-05 12:02:18.630: Iterated through 1 records in thread #2
+2012-03-05 12:02:18.630: Query completed in 6 milliseconds for cycle 13, thread #2
+2012-03-05 12:02:18.737: Starting 13th run in thread #1
+2012-03-05 12:02:18.740: Iterated through 1 records in thread #1
+2012-03-05 12:02:18.740: Query completed in 3 milliseconds for cycle 13, thread #1
+2012-03-05 12:02:18.765: Starting 13th run in thread #5
+2012-03-05 12:02:18.768: Iterated through 1 records in thread #5
+2012-03-05 12:02:18.768: Query completed in 3 milliseconds for cycle 13, thread #5
+2012-03-05 12:02:18.775: Starting 13th run in thread #4
+2012-03-05 12:02:18.779: Iterated through 1 records in thread #4
+2012-03-05 12:02:18.779: Query completed in 3 milliseconds for cycle 13, thread #4
+2012-03-05 12:02:18.865: Starting 13th run in thread #0
+2012-03-05 12:02:18.869: Starting 13th run in thread #3
+2012-03-05 12:02:18.869: Iterated through 1 records in thread #0
+2012-03-05 12:02:18.869: Query completed in 4 milliseconds for cycle 13, thread #0
+2012-03-05 12:02:18.874: Iterated through 1 records in thread #3
+2012-03-05 12:02:18.874: Query completed in 4 milliseconds for cycle 13, thread #3
+2012-03-05 12:02:18.916: Starting 13th run in thread #8
+2012-03-05 12:02:18.922: Iterated through 1 records in thread #8
+2012-03-05 12:02:18.922: Query completed in 5 milliseconds for cycle 13, thread #8
+2012-03-05 12:02:18.938: Starting 13th run in thread #7
+2012-03-05 12:02:18.944: Iterated through 1 records in thread #7
+2012-03-05 12:02:18.944: Query completed in 5 milliseconds for cycle 13, thread #7
+2012-03-05 12:02:19.039: Starting 13th run in thread #6
+2012-03-05 12:02:19.044: Iterated through 1 records in thread #6
+2012-03-05 12:02:19.044: Query completed in 4 milliseconds for cycle 13, thread #6
+2012-03-05 12:02:19.166: Starting 13th run in thread #9
+2012-03-05 12:02:19.170: Iterated through 1 records in thread #9
+2012-03-05 12:02:19.170: Query completed in 4 milliseconds for cycle 13, thread #9
+2012-03-05 12:02:22.198: Starting 14th run in thread #3
+2012-03-05 12:02:22.201: Iterated through 1 records in thread #3
+2012-03-05 12:02:22.201: Query completed in 3 milliseconds for cycle 14, thread #3
+2012-03-05 12:02:22.351: Starting 14th run in thread #2
+2012-03-05 12:02:22.356: Starting 14th run in thread #0
+2012-03-05 12:02:22.362: Iterated through 1 records in thread #0
+2012-03-05 12:02:22.362: Query completed in 6 milliseconds for cycle 14, thread #0
+2012-03-05 12:02:22.362: Iterated through 1 records in thread #2
+2012-03-05 12:02:22.362: Query completed in 10 milliseconds for cycle 14, thread #2
+2012-03-05 12:02:22.382: Starting 14th run in thread #4
+2012-03-05 12:02:22.385: Starting 14th run in thread #5
+2012-03-05 12:02:22.386: Iterated through 1 records in thread #4
+2012-03-05 12:02:22.386: Query completed in 4 milliseconds for cycle 14, thread #4
+2012-03-05 12:02:22.391: Iterated through 1 records in thread #5
+2012-03-05 12:02:22.391: Query completed in 6 milliseconds for cycle 14, thread #5
+2012-03-05 12:02:22.425: Starting 14th run in thread #7
+2012-03-05 12:02:22.429: Iterated through 1 records in thread #7
+2012-03-05 12:02:22.429: Query completed in 4 milliseconds for cycle 14, thread #7
+2012-03-05 12:02:22.478: Starting 14th run in thread #9
+2012-03-05 12:02:22.484: Iterated through 1 records in thread #9
+2012-03-05 12:02:22.484: Query completed in 6 milliseconds for cycle 14, thread #9
+2012-03-05 12:02:22.505: Starting 14th run in thread #1
+2012-03-05 12:02:22.508: Iterated through 1 records in thread #1
+2012-03-05 12:02:22.508: Query completed in 3 milliseconds for cycle 14, thread #1
+2012-03-05 12:02:22.552: Starting 14th run in thread #6
+2012-03-05 12:02:22.558: Iterated through 1 records in thread #6
+2012-03-05 12:02:22.558: Query completed in 5 milliseconds for cycle 14, thread #6
+2012-03-05 12:02:22.594: Starting 14th run in thread #8
+2012-03-05 12:02:22.602: Iterated through 1 records in thread #8
+2012-03-05 12:02:22.602: Query completed in 7 milliseconds for cycle 14, thread #8
+2012-03-05 12:02:25.429: Starting 15th run in thread #3
+2012-03-05 12:02:25.432: Iterated through 1 records in thread #3
+2012-03-05 12:02:25.432: Query completed in 3 milliseconds for cycle 15, thread #3
+2012-03-05 12:02:25.525: Starting 15th run in thread #2
+2012-03-05 12:02:25.531: Iterated through 1 records in thread #2
+2012-03-05 12:02:25.531: Query completed in 6 milliseconds for cycle 15, thread #2
+2012-03-05 12:02:25.621: Starting 15th run in thread #1
+2012-03-05 12:02:25.627: Iterated through 1 records in thread #1
+2012-03-05 12:02:25.627: Query completed in 6 milliseconds for cycle 15, thread #1
+2012-03-05 12:02:25.683: Starting 15th run in thread #4
+2012-03-05 12:02:25.686: Starting 15th run in thread #5
+2012-03-05 12:02:25.686: Starting 15th run in thread #6
+2012-03-05 12:02:25.687: Iterated through 1 records in thread #4
+2012-03-05 12:02:25.687: Query completed in 4 milliseconds for cycle 15, thread #4
+2012-03-05 12:02:25.690: Iterated through 1 records in thread #5
+2012-03-05 12:02:25.690: Query completed in 4 milliseconds for cycle 15, thread #5
+2012-03-05 12:02:25.694: Iterated through 1 records in thread #6
+2012-03-05 12:02:25.694: Query completed in 8 milliseconds for cycle 15, thread #6
+2012-03-05 12:02:25.736: Starting 15th run in thread #0
+2012-03-05 12:02:25.740: Iterated through 1 records in thread #0
+2012-03-05 12:02:25.740: Query completed in 4 milliseconds for cycle 15, thread #0
+2012-03-05 12:02:25.785: Starting 15th run in thread #9
+2012-03-05 12:02:25.790: Iterated through 1 records in thread #9
+2012-03-05 12:02:25.790: Query completed in 4 milliseconds for cycle 15, thread #9
+2012-03-05 12:02:25.878: Starting 15th run in thread #8
+2012-03-05 12:02:25.883: Iterated through 1 records in thread #8
+2012-03-05 12:02:25.883: Query completed in 5 milliseconds for cycle 15, thread #8
+2012-03-05 12:02:25.971: Starting 15th run in thread #7
+2012-03-05 12:02:25.975: Iterated through 1 records in thread #7
+2012-03-05 12:02:25.975: Query completed in 4 milliseconds for cycle 15, thread #7
+2012-03-05 12:02:28.678: Starting 16th run in thread #0
+2012-03-05 12:02:28.684: Iterated through 1 records in thread #0
+2012-03-05 12:02:28.684: Query completed in 5 milliseconds for cycle 16, thread #0
+2012-03-05 12:02:28.707: Starting 16th run in thread #2
+2012-03-05 12:02:28.711: Iterated through 1 records in thread #2
+2012-03-05 12:02:28.711: Query completed in 4 milliseconds for cycle 16, thread #2
+2012-03-05 12:02:28.752: Starting 16th run in thread #5
+2012-03-05 12:02:28.755: Iterated through 1 records in thread #5
+2012-03-05 12:02:28.755: Query completed in 3 milliseconds for cycle 16, thread #5
+2012-03-05 12:02:28.828: Starting 16th run in thread #1
+2012-03-05 12:02:28.833: Iterated through 1 records in thread #1
+2012-03-05 12:02:28.833: Query completed in 5 milliseconds for cycle 16, thread #1
+2012-03-05 12:02:28.842: Starting 16th run in thread #8
+2012-03-05 12:02:28.848: Iterated through 1 records in thread #8
+2012-03-05 12:02:28.848: Query completed in 6 milliseconds for cycle 16, thread #8
+2012-03-05 12:02:28.853: Starting 16th run in thread #4
+2012-03-05 12:02:28.863: Iterated through 1 records in thread #4
+2012-03-05 12:02:28.863: Query completed in 9 milliseconds for cycle 16, thread #4
+2012-03-05 12:02:28.884: Starting 16th run in thread #7
+2012-03-05 12:02:28.889: Iterated through 1 records in thread #7
+2012-03-05 12:02:28.889: Query completed in 5 milliseconds for cycle 16, thread #7
+2012-03-05 12:02:28.909: Starting 16th run in thread #3
+2012-03-05 12:02:28.914: Iterated through 1 records in thread #3
+2012-03-05 12:02:28.914: Query completed in 5 milliseconds for cycle 16, thread #3
+2012-03-05 12:02:28.989: Starting 16th run in thread #6
+2012-03-05 12:02:29.042: Iterated through 1 records in thread #6
+2012-03-05 12:02:29.042: Query completed in 52 milliseconds for cycle 16, thread #6
+2012-03-05 12:02:29.057: Starting 16th run in thread #9
+2012-03-05 12:02:29.163: Iterated through 1 records in thread #9
+2012-03-05 12:02:29.163: Query completed in 105 milliseconds for cycle 16, thread #9
+2012-03-05 12:02:31.865: Starting 17th run in thread #3
+2012-03-05 12:02:31.872: Iterated through 1 records in thread #3
+2012-03-05 12:02:31.872: Query completed in 6 milliseconds for cycle 17, thread #3
+2012-03-05 12:02:31.917: Starting 17th run in thread #1
+2012-03-05 12:02:31.924: Iterated through 1 records in thread #1
+2012-03-05 12:02:31.924: Query completed in 7 milliseconds for cycle 17, thread #1
+2012-03-05 12:02:32.018: Starting 17th run in thread #4
+2012-03-05 12:02:32.021: Iterated through 1 records in thread #4
+2012-03-05 12:02:32.021: Query completed in 3 milliseconds for cycle 17, thread #4
+2012-03-05 12:02:32.048: Starting 17th run in thread #6
+2012-03-05 12:02:32.051: Iterated through 1 records in thread #6
+2012-03-05 12:02:32.051: Query completed in 3 milliseconds for cycle 17, thread #6
+2012-03-05 12:02:32.052: Starting 17th run in thread #2
+2012-03-05 12:02:32.054: Iterated through 1 records in thread #2
+2012-03-05 12:02:32.054: Query completed in 2 milliseconds for cycle 17, thread #2
+2012-03-05 12:02:32.094: Starting 17th run in thread #8
+2012-03-05 12:02:32.096: Iterated through 1 records in thread #8
+2012-03-05 12:02:32.096: Query completed in 2 milliseconds for cycle 17, thread #8
+2012-03-05 12:02:32.126: Starting 17th run in thread #0
+2012-03-05 12:02:32.131: Iterated through 1 records in thread #0
+2012-03-05 12:02:32.131: Query completed in 5 milliseconds for cycle 17, thread #0
+2012-03-05 12:02:32.181: Starting 17th run in thread #5
+2012-03-05 12:02:32.183: Starting 17th run in thread #7
+2012-03-05 12:02:32.187: Iterated through 1 records in thread #5
+2012-03-05 12:02:32.187: Query completed in 5 milliseconds for cycle 17, thread #5
+2012-03-05 12:02:32.190: Iterated through 1 records in thread #7
+2012-03-05 12:02:32.190: Query completed in 7 milliseconds for cycle 17, thread #7
+2012-03-05 12:02:32.258: Starting 17th run in thread #9
+2012-03-05 12:02:32.261: Iterated through 1 records in thread #9
+2012-03-05 12:02:32.261: Query completed in 3 milliseconds for cycle 17, thread #9
+2012-03-05 12:02:34.873: Starting 18th run in thread #5
+2012-03-05 12:02:34.909: Starting 18th run in thread #2
+2012-03-05 12:02:34.909: Iterated through 1 records in thread #5
+2012-03-05 12:02:34.909: Query completed in 35 milliseconds for cycle 18, thread #5
+2012-03-05 12:02:34.929: Iterated through 1 records in thread #2
+2012-03-05 12:02:34.929: Query completed in 20 milliseconds for cycle 18, thread #2
+2012-03-05 12:02:34.998: Starting 18th run in thread #4
+2012-03-05 12:02:35.004: Iterated through 1 records in thread #4
+2012-03-05 12:02:35.004: Query completed in 5 milliseconds for cycle 18, thread #4
+2012-03-05 12:02:35.008: Starting 18th run in thread #7
+2012-03-05 12:02:35.070: Starting 18th run in thread #1
+2012-03-05 12:02:35.077: Starting 18th run in thread #3
+2012-03-05 12:02:35.084: Iterated through 1 records in thread #1
+2012-03-05 12:02:35.084: Query completed in 14 milliseconds for cycle 18, thread #1
+2012-03-05 12:02:35.089: Iterated through 1 records in thread #7
+2012-03-05 12:02:35.089: Query completed in 80 milliseconds for cycle 18, thread #7
+2012-03-05 12:02:35.090: Iterated through 1 records in thread #3
+2012-03-05 12:02:35.090: Query completed in 12 milliseconds for cycle 18, thread #3
+2012-03-05 12:02:35.151: Starting 18th run in thread #0
+2012-03-05 12:02:35.151: Starting 18th run in thread #6
+2012-03-05 12:02:35.171: Starting 18th run in thread #9
+2012-03-05 12:02:35.192: Iterated through 1 records in thread #0
+2012-03-05 12:02:35.192: Query completed in 41 milliseconds for cycle 18, thread #0
+2012-03-05 12:02:35.192: Iterated through 1 records in thread #6
+2012-03-05 12:02:35.192: Query completed in 41 milliseconds for cycle 18, thread #6
+2012-03-05 12:02:35.197: Iterated through 1 records in thread #9
+2012-03-05 12:02:35.197: Query completed in 26 milliseconds for cycle 18, thread #9
+2012-03-05 12:02:35.205: Starting 18th run in thread #8
+2012-03-05 12:02:35.215: Iterated through 1 records in thread #8
+2012-03-05 12:02:35.215: Query completed in 9 milliseconds for cycle 18, thread #8
+2012-03-05 12:02:37.916: Starting 19th run in thread #1
+2012-03-05 12:02:37.920: Iterated through 1 records in thread #1
+2012-03-05 12:02:37.920: Query completed in 4 milliseconds for cycle 19, thread #1
+2012-03-05 12:02:37.923: Starting 19th run in thread #2
+2012-03-05 12:02:37.923: Starting 19th run in thread #0
+2012-03-05 12:02:37.927: Iterated through 1 records in thread #2
+2012-03-05 12:02:37.927: Query completed in 3 milliseconds for cycle 19, thread #2
+2012-03-05 12:02:37.931: Starting 19th run in thread #3
+2012-03-05 12:02:37.931: Iterated through 1 records in thread #0
+2012-03-05 12:02:37.931: Query completed in 7 milliseconds for cycle 19, thread #0
+2012-03-05 12:02:37.934: Iterated through 1 records in thread #3
+2012-03-05 12:02:37.934: Query completed in 3 milliseconds for cycle 19, thread #3
+2012-03-05 12:02:37.954: Starting 19th run in thread #4
+2012-03-05 12:02:37.957: Iterated through 1 records in thread #4
+2012-03-05 12:02:37.957: Query completed in 2 milliseconds for cycle 19, thread #4
+2012-03-05 12:02:37.962: Starting 19th run in thread #5
+2012-03-05 12:02:37.966: Iterated through 1 records in thread #5
+2012-03-05 12:02:37.966: Query completed in 4 milliseconds for cycle 19, thread #5
+2012-03-05 12:02:38.030: Starting 19th run in thread #6
+2012-03-05 12:02:38.034: Iterated through 1 records in thread #6
+2012-03-05 12:02:38.034: Query completed in 3 milliseconds for cycle 19, thread #6
+2012-03-05 12:02:38.061: Starting 19th run in thread #7
+2012-03-05 12:02:38.065: Iterated through 1 records in thread #7
+2012-03-05 12:02:38.065: Query completed in 4 milliseconds for cycle 19, thread #7
+2012-03-05 12:02:38.180: Starting 19th run in thread #8
+2012-03-05 12:02:38.184: Iterated through 1 records in thread #8
+2012-03-05 12:02:38.184: Query completed in 3 milliseconds for cycle 19, thread #8
+2012-03-05 12:02:38.193: Starting 19th run in thread #9
+2012-03-05 12:02:38.196: Iterated through 1 records in thread #9
+2012-03-05 12:02:38.196: Query completed in 2 milliseconds for cycle 19, thread #9
+2012-03-05 12:02:40.631: Starting 20th run in thread #2
+2012-03-05 12:02:40.637: Iterated through 1 records in thread #2
+2012-03-05 12:02:40.637: Query completed in 5 milliseconds for cycle 20, thread #2
+2012-03-05 12:02:40.690: Starting 20th run in thread #7
+2012-03-05 12:02:40.693: Iterated through 1 records in thread #7
+2012-03-05 12:02:40.693: Query completed in 2 milliseconds for cycle 20, thread #7
+2012-03-05 12:02:40.695: Starting 20th run in thread #5
+2012-03-05 12:02:40.697: Iterated through 1 records in thread #5
+2012-03-05 12:02:40.697: Query completed in 2 milliseconds for cycle 20, thread #5
+2012-03-05 12:02:40.716: Starting 20th run in thread #0
+2012-03-05 12:02:40.721: Iterated through 1 records in thread #0
+2012-03-05 12:02:40.721: Query completed in 4 milliseconds for cycle 20, thread #0
+2012-03-05 12:02:40.743: Starting 20th run in thread #3
+2012-03-05 12:02:40.747: Iterated through 1 records in thread #3
+2012-03-05 12:02:40.747: Query completed in 3 milliseconds for cycle 20, thread #3
+2012-03-05 12:02:40.803: Starting 20th run in thread #8
+2012-03-05 12:02:40.806: Iterated through 1 records in thread #8
+2012-03-05 12:02:40.806: Query completed in 2 milliseconds for cycle 20, thread #8
+2012-03-05 12:02:40.809: Starting 20th run in thread #1
+2012-03-05 12:02:40.814: Iterated through 1 records in thread #1
+2012-03-05 12:02:40.814: Query completed in 4 milliseconds for cycle 20, thread #1
+2012-03-05 12:02:40.867: Starting 20th run in thread #6
+2012-03-05 12:02:40.869: Iterated through 1 records in thread #6
+2012-03-05 12:02:40.869: Query completed in 1 milliseconds for cycle 20, thread #6
+2012-03-05 12:02:40.873: Starting 20th run in thread #4
+2012-03-05 12:02:40.875: Iterated through 1 records in thread #4
+2012-03-05 12:02:40.875: Query completed in 2 milliseconds for cycle 20, thread #4
+2012-03-05 12:02:40.947: Starting 20th run in thread #9
+2012-03-05 12:02:41.150: Iterated through 1 records in thread #9
+2012-03-05 12:02:41.150: Query completed in 203 milliseconds for cycle 20, thread #9
+2012-03-05 12:02:43.422: Starting 21th run in thread #2
+2012-03-05 12:02:43.425: Iterated through 1 records in thread #2
+2012-03-05 12:02:43.425: Query completed in 2 milliseconds for cycle 21, thread #2
+2012-03-05 12:02:43.457: Starting 21th run in thread #3
+2012-03-05 12:02:43.460: Iterated through 1 records in thread #3
+2012-03-05 12:02:43.460: Query completed in 2 milliseconds for cycle 21, thread #3
+2012-03-05 12:02:43.473: Starting 21th run in thread #9
+2012-03-05 12:02:43.476: Iterated through 1 records in thread #9
+2012-03-05 12:02:43.476: Query completed in 2 milliseconds for cycle 21, thread #9
+2012-03-05 12:02:43.508: Starting 21th run in thread #4
+2012-03-05 12:02:43.510: Iterated through 1 records in thread #4
+2012-03-05 12:02:43.510: Query completed in 2 milliseconds for cycle 21, thread #4
+2012-03-05 12:02:43.543: Starting 21th run in thread #5
+2012-03-05 12:02:43.545: Iterated through 1 records in thread #5
+2012-03-05 12:02:43.545: Query completed in 2 milliseconds for cycle 21, thread #5
+2012-03-05 12:02:43.630: Starting 21th run in thread #6
+2012-03-05 12:02:43.630: Starting 21th run in thread #0
+2012-03-05 12:02:43.632: Iterated through 1 records in thread #0
+2012-03-05 12:02:43.632: Query completed in 2 milliseconds for cycle 21, thread #0
+2012-03-05 12:02:43.635: Iterated through 1 records in thread #6
+2012-03-05 12:02:43.635: Query completed in 5 milliseconds for cycle 21, thread #6
+2012-03-05 12:02:43.648: Starting 21th run in thread #1
+2012-03-05 12:02:43.650: Iterated through 1 records in thread #1
+2012-03-05 12:02:43.650: Query completed in 2 milliseconds for cycle 21, thread #1
+2012-03-05 12:02:43.665: Starting 21th run in thread #7
+2012-03-05 12:02:43.667: Iterated through 1 records in thread #7
+2012-03-05 12:02:43.667: Query completed in 2 milliseconds for cycle 21, thread #7
+2012-03-05 12:02:43.699: Starting 21th run in thread #8
+2012-03-05 12:02:43.701: Iterated through 1 records in thread #8
+2012-03-05 12:02:43.701: Query completed in 2 milliseconds for cycle 21, thread #8
+2012-03-05 12:02:46.031: Starting 22th run in thread #1
+2012-03-05 12:02:46.033: Iterated through 1 records in thread #1
+2012-03-05 12:02:46.033: Query completed in 2 milliseconds for cycle 22, thread #1
+2012-03-05 12:02:46.040: Starting 22th run in thread #5
+2012-03-05 12:02:46.043: Iterated through 1 records in thread #5
+2012-03-05 12:02:46.043: Query completed in 2 milliseconds for cycle 22, thread #5
+2012-03-05 12:02:46.089: Starting 22th run in thread #9
+2012-03-05 12:02:46.092: Iterated through 1 records in thread #9
+2012-03-05 12:02:46.092: Query completed in 2 milliseconds for cycle 22, thread #9
+2012-03-05 12:02:46.094: Starting 22th run in thread #2
+2012-03-05 12:02:46.097: Iterated through 1 records in thread #2
+2012-03-05 12:02:46.097: Query completed in 2 milliseconds for cycle 22, thread #2
+2012-03-05 12:02:46.159: Starting 22th run in thread #3
+2012-03-05 12:02:46.159: Starting 22th run in thread #6
+2012-03-05 12:02:46.160: Iterated through 1 records in thread #3
+2012-03-05 12:02:46.160: Query completed in 1 milliseconds for cycle 22, thread #3
+2012-03-05 12:02:46.164: Iterated through 1 records in thread #6
+2012-03-05 12:02:46.164: Query completed in 5 milliseconds for cycle 22, thread #6
+2012-03-05 12:02:46.223: Starting 22th run in thread #7
+2012-03-05 12:02:46.226: Iterated through 1 records in thread #7
+2012-03-05 12:02:46.226: Query completed in 2 milliseconds for cycle 22, thread #7
+2012-03-05 12:02:46.236: Starting 22th run in thread #4
+2012-03-05 12:02:46.239: Iterated through 1 records in thread #4
+2012-03-05 12:02:46.239: Query completed in 3 milliseconds for cycle 22, thread #4
+2012-03-05 12:02:46.242: Starting 22th run in thread #0
+2012-03-05 12:02:46.244: Iterated through 1 records in thread #0
+2012-03-05 12:02:46.244: Query completed in 2 milliseconds for cycle 22, thread #0
+2012-03-05 12:02:46.286: Starting 22th run in thread #8
+2012-03-05 12:02:46.288: Iterated through 1 records in thread #8
+2012-03-05 12:02:46.288: Query completed in 2 milliseconds for cycle 22, thread #8
+2012-03-05 12:02:48.654: Starting 23th run in thread #1
+2012-03-05 12:02:48.656: Iterated through 1 records in thread #1
+2012-03-05 12:02:48.656: Query completed in 2 milliseconds for cycle 23, thread #1
+2012-03-05 12:02:48.682: Starting 23th run in thread #6
+2012-03-05 12:02:48.684: Iterated through 1 records in thread #6
+2012-03-05 12:02:48.684: Query completed in 2 milliseconds for cycle 23, thread #6
+2012-03-05 12:02:48.697: Starting 23th run in thread #2
+2012-03-05 12:02:48.700: Iterated through 1 records in thread #2
+2012-03-05 12:02:48.700: Query completed in 2 milliseconds for cycle 23, thread #2
+2012-03-05 12:02:48.726: Starting 23th run in thread #7
+2012-03-05 12:02:48.728: Iterated through 1 records in thread #7
+2012-03-05 12:02:48.728: Query completed in 2 milliseconds for cycle 23, thread #7
+2012-03-05 12:02:48.741: Starting 23th run in thread #3
+2012-03-05 12:02:48.744: Iterated through 1 records in thread #3
+2012-03-05 12:02:48.744: Query completed in 2 milliseconds for cycle 23, thread #3
+2012-03-05 12:02:48.770: Starting 23th run in thread #8
+2012-03-05 12:02:48.773: Iterated through 1 records in thread #8
+2012-03-05 12:02:48.773: Query completed in 3 milliseconds for cycle 23, thread #8
+2012-03-05 12:02:48.800: Starting 23th run in thread #4
+2012-03-05 12:02:48.803: Iterated through 1 records in thread #4
+2012-03-05 12:02:48.803: Query completed in 3 milliseconds for cycle 23, thread #4
+2012-03-05 12:02:48.813: Starting 23th run in thread #9
+2012-03-05 12:02:48.816: Iterated through 1 records in thread #9
+2012-03-05 12:02:48.816: Query completed in 2 milliseconds for cycle 23, thread #9
+2012-03-05 12:02:48.845: Starting 23th run in thread #5
+2012-03-05 12:02:48.847: Iterated through 1 records in thread #5
+2012-03-05 12:02:48.847: Query completed in 1 milliseconds for cycle 23, thread #5
+2012-03-05 12:02:48.884: Starting 23th run in thread #0
+2012-03-05 12:02:48.887: Iterated through 1 records in thread #0
+2012-03-05 12:02:48.887: Query completed in 2 milliseconds for cycle 23, thread #0
+2012-03-05 12:02:51.232: Starting 24th run in thread #3
+2012-03-05 12:02:51.234: Starting 24th run in thread #0
+2012-03-05 12:02:51.238: Iterated through 1 records in thread #0
+2012-03-05 12:02:51.238: Query completed in 4 milliseconds for cycle 24, thread #0
+2012-03-05 12:02:51.239: Iterated through 1 records in thread #3
+2012-03-05 12:02:51.239: Query completed in 6 milliseconds for cycle 24, thread #3
+2012-03-05 12:02:51.302: Starting 24th run in thread #1
+2012-03-05 12:02:51.305: Starting 24th run in thread #6
+2012-03-05 12:02:51.305: Iterated through 1 records in thread #1
+2012-03-05 12:02:51.305: Query completed in 2 milliseconds for cycle 24, thread #1
+2012-03-05 12:02:51.307: Iterated through 1 records in thread #6
+2012-03-05 12:02:51.307: Query completed in 2 milliseconds for cycle 24, thread #6
+2012-03-05 12:02:51.317: Starting 24th run in thread #9
+2012-03-05 12:02:51.322: Iterated through 1 records in thread #9
+2012-03-05 12:02:51.322: Query completed in 4 milliseconds for cycle 24, thread #9
+2012-03-05 12:02:51.328: Starting 24th run in thread #4
+2012-03-05 12:02:51.331: Iterated through 1 records in thread #4
+2012-03-05 12:02:51.331: Query completed in 3 milliseconds for cycle 24, thread #4
+2012-03-05 12:02:51.385: Starting 24th run in thread #2
+2012-03-05 12:02:51.387: Starting 24th run in thread #7
+2012-03-05 12:02:51.388: Iterated through 1 records in thread #2
+2012-03-05 12:02:51.388: Query completed in 3 milliseconds for cycle 24, thread #2
+2012-03-05 12:02:51.390: Iterated through 1 records in thread #7
+2012-03-05 12:02:51.390: Query completed in 3 milliseconds for cycle 24, thread #7
+2012-03-05 12:02:51.408: Starting 24th run in thread #5
+2012-03-05 12:02:51.411: Iterated through 1 records in thread #5
+2012-03-05 12:02:51.411: Query completed in 2 milliseconds for cycle 24, thread #5
+2012-03-05 12:02:51.469: Starting 24th run in thread #8
+2012-03-05 12:02:51.471: Iterated through 1 records in thread #8
+2012-03-05 12:02:51.471: Query completed in 2 milliseconds for cycle 24, thread #8
+2012-03-05 12:02:53.592: Starting 25th run in thread #4
+2012-03-05 12:02:53.595: Iterated through 1 records in thread #4
+2012-03-05 12:02:53.595: Query completed in 3 milliseconds for cycle 25, thread #4
+2012-03-05 12:02:53.616: Starting 25th run in thread #5
+2012-03-05 12:02:53.620: Iterated through 1 records in thread #5
+2012-03-05 12:02:53.620: Query completed in 3 milliseconds for cycle 25, thread #5
+2012-03-05 12:02:53.688: Starting 25th run in thread #6
+2012-03-05 12:02:53.690: Iterated through 1 records in thread #6
+2012-03-05 12:02:53.690: Query completed in 2 milliseconds for cycle 25, thread #6
+2012-03-05 12:02:53.710: Starting 25th run in thread #7
+2012-03-05 12:02:53.712: Iterated through 1 records in thread #7
+2012-03-05 12:02:53.712: Query completed in 2 milliseconds for cycle 25, thread #7
+2012-03-05 12:02:53.733: Starting 25th run in thread #8
+2012-03-05 12:02:53.735: Iterated through 1 records in thread #8
+2012-03-05 12:02:53.735: Query completed in 1 milliseconds for cycle 25, thread #8
+2012-03-05 12:02:53.735: Starting 25th run in thread #0
+2012-03-05 12:02:53.738: Iterated through 1 records in thread #0
+2012-03-05 12:02:53.738: Query completed in 3 milliseconds for cycle 25, thread #0
+2012-03-05 12:02:53.745: Starting 25th run in thread #1
+2012-03-05 12:02:53.747: Iterated through 1 records in thread #1
+2012-03-05 12:02:53.747: Query completed in 2 milliseconds for cycle 25, thread #1
+2012-03-05 12:02:53.756: Starting 25th run in thread #9
+2012-03-05 12:02:53.759: Iterated through 1 records in thread #9
+2012-03-05 12:02:53.759: Query completed in 3 milliseconds for cycle 25, thread #9
+2012-03-05 12:02:53.768: Starting 25th run in thread #2
+2012-03-05 12:02:53.770: Iterated through 1 records in thread #2
+2012-03-05 12:02:53.770: Query completed in 2 milliseconds for cycle 25, thread #2
+2012-03-05 12:02:53.791: Starting 25th run in thread #3
+2012-03-05 12:02:53.793: Iterated through 1 records in thread #3
+2012-03-05 12:02:53.793: Query completed in 1 milliseconds for cycle 25, thread #3
+2012-03-05 12:02:55.926: Starting 26th run in thread #4
+2012-03-05 12:02:55.929: Iterated through 1 records in thread #4
+2012-03-05 12:02:55.929: Query completed in 3 milliseconds for cycle 26, thread #4
+2012-03-05 12:02:55.943: Starting 26th run in thread #1
+2012-03-05 12:02:55.945: Iterated through 1 records in thread #1
+2012-03-05 12:02:55.945: Query completed in 2 milliseconds for cycle 26, thread #1
+2012-03-05 12:02:55.959: Starting 26th run in thread #7
+2012-03-05 12:02:55.961: Iterated through 1 records in thread #7
+2012-03-05 12:02:55.961: Query completed in 1 milliseconds for cycle 26, thread #7
+2012-03-05 12:02:56.010: Starting 26th run in thread #3
+2012-03-05 12:02:56.013: Iterated through 1 records in thread #3
+2012-03-05 12:02:56.013: Query completed in 3 milliseconds for cycle 26, thread #3
+2012-03-05 12:02:56.026: Starting 26th run in thread #0
+2012-03-05 12:02:56.026: Starting 26th run in thread #9
+2012-03-05 12:02:56.027: Iterated through 1 records in thread #0
+2012-03-05 12:02:56.027: Query completed in 1 milliseconds for cycle 26, thread #0
+2012-03-05 12:02:56.030: Iterated through 1 records in thread #9
+2012-03-05 12:02:56.030: Query completed in 3 milliseconds for cycle 26, thread #9
+2012-03-05 12:02:56.042: Starting 26th run in thread #6
+2012-03-05 12:02:56.044: Iterated through 1 records in thread #6
+2012-03-05 12:02:56.044: Query completed in 2 milliseconds for cycle 26, thread #6
+2012-03-05 12:02:56.077: Starting 26th run in thread #5
+2012-03-05 12:02:56.078: Iterated through 1 records in thread #5
+2012-03-05 12:02:56.078: Query completed in 1 milliseconds for cycle 26, thread #5
+2012-03-05 12:02:56.093: Starting 26th run in thread #2
+2012-03-05 12:02:56.120: Starting 26th run in thread #8
+2012-03-05 12:02:56.235: Iterated through 1 records in thread #8
+2012-03-05 12:02:56.235: Query completed in 114 milliseconds for cycle 26, thread #8
+2012-03-05 12:02:56.235: Iterated through 1 records in thread #2
+2012-03-05 12:02:56.235: Query completed in 141 milliseconds for cycle 26, thread #2
+2012-03-05 12:02:58.302: Starting 27th run in thread #5
+2012-03-05 12:02:58.317: Starting 27th run in thread #6
+2012-03-05 12:02:58.335: Starting 27th run in thread #4
+2012-03-05 12:02:58.374: Starting 27th run in thread #3
+2012-03-05 12:02:58.401: Starting 27th run in thread #2
+2012-03-05 12:02:58.425: Iterated through 1 records in thread #6
+2012-03-05 12:02:58.425: Query completed in 107 milliseconds for cycle 27, thread #6
+2012-03-05 12:02:58.425: Iterated through 1 records in thread #4
+2012-03-05 12:02:58.425: Query completed in 90 milliseconds for cycle 27, thread #4
+2012-03-05 12:02:58.426: Iterated through 1 records in thread #3
+2012-03-05 12:02:58.426: Query completed in 52 milliseconds for cycle 27, thread #3
+2012-03-05 12:02:58.426: Iterated through 1 records in thread #5
+2012-03-05 12:02:58.426: Query completed in 124 milliseconds for cycle 27, thread #5
+2012-03-05 12:02:58.427: Iterated through 1 records in thread #2
+2012-03-05 12:02:58.427: Query completed in 25 milliseconds for cycle 27, thread #2
+2012-03-05 12:02:58.434: Starting 27th run in thread #1
+2012-03-05 12:02:58.436: Iterated through 1 records in thread #1
+2012-03-05 12:02:58.436: Query completed in 2 milliseconds for cycle 27, thread #1
+2012-03-05 12:02:58.467: Starting 27th run in thread #0
+2012-03-05 12:02:58.490: Starting 27th run in thread #8
+2012-03-05 12:02:58.533: Starting 27th run in thread #7
+2012-03-05 12:02:58.582: Starting 27th run in thread #9
+2012-03-05 12:02:58.618: Iterated through 1 records in thread #0
+2012-03-05 12:02:58.618: Query completed in 151 milliseconds for cycle 27, thread #0
+2012-03-05 12:02:58.618: Iterated through 1 records in thread #8
+2012-03-05 12:02:58.618: Query completed in 128 milliseconds for cycle 27, thread #8
+2012-03-05 12:02:58.619: Iterated through 1 records in thread #7
+2012-03-05 12:02:58.619: Query completed in 86 milliseconds for cycle 27, thread #7
+2012-03-05 12:02:58.619: Iterated through 1 records in thread #9
+2012-03-05 12:02:58.619: Query completed in 37 milliseconds for cycle 27, thread #9
+2012-03-05 12:03:00.793: Starting 28th run in thread #4
+2012-03-05 12:03:00.811: Starting 28th run in thread #7
+2012-03-05 12:03:00.830: Starting 28th run in thread #1
+2012-03-05 12:03:00.890: Starting 28th run in thread #3
+2012-03-05 12:03:00.908: Starting 28th run in thread #6
+2012-03-05 12:03:00.920: Iterated through 1 records in thread #7
+2012-03-05 12:03:00.920: Query completed in 109 milliseconds for cycle 28, thread #7
+2012-03-05 12:03:00.920: Iterated through 1 records in thread #6
+2012-03-05 12:03:00.920: Query completed in 12 milliseconds for cycle 28, thread #6
+2012-03-05 12:03:00.920: Iterated through 1 records in thread #4
+2012-03-05 12:03:00.920: Query completed in 127 milliseconds for cycle 28, thread #4
+2012-03-05 12:03:00.920: Iterated through 1 records in thread #3
+2012-03-05 12:03:00.920: Query completed in 30 milliseconds for cycle 28, thread #3
+2012-03-05 12:03:00.920: Iterated through 1 records in thread #1
+2012-03-05 12:03:00.920: Query completed in 90 milliseconds for cycle 28, thread #1
+2012-03-05 12:03:00.927: Starting 28th run in thread #0
+2012-03-05 12:03:00.930: Iterated through 1 records in thread #0
+2012-03-05 12:03:00.930: Query completed in 2 milliseconds for cycle 28, thread #0
+2012-03-05 12:03:00.952: Starting 28th run in thread #5
+2012-03-05 12:03:00.955: Iterated through 1 records in thread #5
+2012-03-05 12:03:00.955: Query completed in 2 milliseconds for cycle 28, thread #5
+2012-03-05 12:03:00.970: Starting 28th run in thread #8
+2012-03-05 12:03:00.973: Iterated through 1 records in thread #8
+2012-03-05 12:03:00.973: Query completed in 2 milliseconds for cycle 28, thread #8
+2012-03-05 12:03:00.988: Starting 28th run in thread #9
+2012-03-05 12:03:00.989: Starting 28th run in thread #2
+2012-03-05 12:03:00.991: Iterated through 1 records in thread #9
+2012-03-05 12:03:00.991: Query completed in 2 milliseconds for cycle 28, thread #9
+2012-03-05 12:03:00.994: Iterated through 1 records in thread #2
+2012-03-05 12:03:00.994: Query completed in 5 milliseconds for cycle 28, thread #2
+2012-03-05 12:03:03.354: Starting 29th run in thread #2
+2012-03-05 12:03:03.356: Iterated through 1 records in thread #2
+2012-03-05 12:03:03.356: Query completed in 2 milliseconds for cycle 29, thread #2
+2012-03-05 12:03:03.391: Starting 29th run in thread #9
+2012-03-05 12:03:03.393: Iterated through 1 records in thread #9
+2012-03-05 12:03:03.393: Query completed in 2 milliseconds for cycle 29, thread #9
+2012-03-05 12:03:03.425: Starting 29th run in thread #3
+2012-03-05 12:03:03.427: Iterated through 1 records in thread #3
+2012-03-05 12:03:03.427: Query completed in 2 milliseconds for cycle 29, thread #3
+2012-03-05 12:03:03.435: Starting 29th run in thread #6
+2012-03-05 12:03:03.438: Iterated through 1 records in thread #6
+2012-03-05 12:03:03.438: Query completed in 3 milliseconds for cycle 29, thread #6
+2012-03-05 12:03:03.469: Starting 29th run in thread #0
+2012-03-05 12:03:03.472: Iterated through 1 records in thread #0
+2012-03-05 12:03:03.472: Query completed in 2 milliseconds for cycle 29, thread #0
+2012-03-05 12:03:03.496: Starting 29th run in thread #4
+2012-03-05 12:03:03.499: Iterated through 1 records in thread #4
+2012-03-05 12:03:03.499: Query completed in 2 milliseconds for cycle 29, thread #4
+2012-03-05 12:03:03.506: Starting 29th run in thread #7
+2012-03-05 12:03:03.508: Iterated through 1 records in thread #7
+2012-03-05 12:03:03.508: Query completed in 1 milliseconds for cycle 29, thread #7
+2012-03-05 12:03:03.540: Starting 29th run in thread #1
+2012-03-05 12:03:03.543: Iterated through 1 records in thread #1
+2012-03-05 12:03:03.543: Query completed in 3 milliseconds for cycle 29, thread #1
+2012-03-05 12:03:03.568: Starting 29th run in thread #5
+2012-03-05 12:03:03.571: Iterated through 1 records in thread #5
+2012-03-05 12:03:03.571: Query completed in 3 milliseconds for cycle 29, thread #5
+2012-03-05 12:03:03.577: Starting 29th run in thread #8
+2012-03-05 12:03:03.579: Iterated through 1 records in thread #8
+2012-03-05 12:03:03.579: Query completed in 2 milliseconds for cycle 29, thread #8
+2012-03-05 12:03:05.928: Starting 30th run in thread #0
+2012-03-05 12:03:05.930: Iterated through 1 records in thread #0
+2012-03-05 12:03:05.930: Query completed in 2 milliseconds for cycle 30, thread #0
+2012-03-05 12:03:05.934: Starting 30th run in thread #5
+2012-03-05 12:03:05.936: Iterated through 1 records in thread #5
+2012-03-05 12:03:05.936: Query completed in 1 milliseconds for cycle 30, thread #5
+2012-03-05 12:03:05.985: Starting 30th run in thread #4
+2012-03-05 12:03:05.987: Iterated through 1 records in thread #4
+2012-03-05 12:03:05.987: Query completed in 2 milliseconds for cycle 30, thread #4
+2012-03-05 12:03:06.035: Starting 30th run in thread #3
+2012-03-05 12:03:06.038: Iterated through 1 records in thread #3
+2012-03-05 12:03:06.038: Query completed in 3 milliseconds for cycle 30, thread #3
+2012-03-05 12:03:06.045: Starting 30th run in thread #9
+2012-03-05 12:03:06.048: Iterated through 1 records in thread #9
+2012-03-05 12:03:06.048: Query completed in 2 milliseconds for cycle 30, thread #9
+2012-03-05 12:03:06.085: Starting 30th run in thread #2
+2012-03-05 12:03:06.086: Iterated through 1 records in thread #2
+2012-03-05 12:03:06.086: Query completed in 1 milliseconds for cycle 30, thread #2
+2012-03-05 12:03:06.095: Starting 30th run in thread #8
+2012-03-05 12:03:06.097: Iterated through 1 records in thread #8
+2012-03-05 12:03:06.097: Query completed in 1 milliseconds for cycle 30, thread #8
+2012-03-05 12:03:06.135: Starting 30th run in thread #1
+2012-03-05 12:03:06.138: Iterated through 1 records in thread #1
+2012-03-05 12:03:06.138: Query completed in 3 milliseconds for cycle 30, thread #1
+2012-03-05 12:03:06.146: Starting 30th run in thread #7
+2012-03-05 12:03:06.147: Iterated through 1 records in thread #7
+2012-03-05 12:03:06.147: Query completed in 1 milliseconds for cycle 30, thread #7
+2012-03-05 12:03:06.195: Starting 30th run in thread #6
+2012-03-05 12:03:06.198: Iterated through 1 records in thread #6
+2012-03-05 12:03:06.198: Query completed in 2 milliseconds for cycle 30, thread #6
+2012-03-05 12:03:08.584: Starting 31th run in thread #5
+2012-03-05 12:03:08.586: Iterated through 1 records in thread #5
+2012-03-05 12:03:08.586: Query completed in 2 milliseconds for cycle 31, thread #5
+2012-03-05 12:03:08.628: Starting 31th run in thread #0
+2012-03-05 12:03:08.637: Iterated through 1 records in thread #0
+2012-03-05 12:03:08.637: Query completed in 9 milliseconds for cycle 31, thread #0
+2012-03-05 12:03:08.658: Starting 31th run in thread #3
+2012-03-05 12:03:08.661: Iterated through 1 records in thread #3
+2012-03-05 12:03:08.661: Query completed in 2 milliseconds for cycle 31, thread #3
+2012-03-05 12:03:08.676: Starting 31th run in thread #8
+2012-03-05 12:03:08.680: Iterated through 1 records in thread #8
+2012-03-05 12:03:08.680: Query completed in 3 milliseconds for cycle 31, thread #8
+2012-03-05 12:03:08.731: Starting 31th run in thread #1
+2012-03-05 12:03:08.736: Iterated through 1 records in thread #1
+2012-03-05 12:03:08.736: Query completed in 4 milliseconds for cycle 31, thread #1
+2012-03-05 12:03:08.748: Starting 31th run in thread #6
+2012-03-05 12:03:08.750: Iterated through 1 records in thread #6
+2012-03-05 12:03:08.750: Query completed in 1 milliseconds for cycle 31, thread #6
+2012-03-05 12:03:08.763: Starting 31th run in thread #4
+2012-03-05 12:03:08.765: Iterated through 1 records in thread #4
+2012-03-05 12:03:08.765: Query completed in 1 milliseconds for cycle 31, thread #4
+2012-03-05 12:03:08.778: Starting 31th run in thread #9
+2012-03-05 12:03:08.781: Iterated through 1 records in thread #9
+2012-03-05 12:03:08.781: Query completed in 2 milliseconds for cycle 31, thread #9
+2012-03-05 12:03:08.837: Starting 31th run in thread #2
+2012-03-05 12:03:08.839: Iterated through 1 records in thread #2
+2012-03-05 12:03:08.839: Query completed in 2 milliseconds for cycle 31, thread #2
+2012-03-05 12:03:08.853: Starting 31th run in thread #7
+2012-03-05 12:03:08.856: Iterated through 1 records in thread #7
+2012-03-05 12:03:08.856: Query completed in 2 milliseconds for cycle 31, thread #7
+2012-03-05 12:03:11.480: Starting 32th run in thread #6
+2012-03-05 12:03:11.481: Starting 32th run in thread #3
+2012-03-05 12:03:11.482: Iterated through 1 records in thread #6
+2012-03-05 12:03:11.482: Query completed in 2 milliseconds for cycle 32, thread #6
+2012-03-05 12:03:11.486: Iterated through 1 records in thread #3
+2012-03-05 12:03:11.486: Query completed in 5 milliseconds for cycle 32, thread #3
+2012-03-05 12:03:11.540: Starting 32th run in thread #0
+2012-03-05 12:03:11.542: Iterated through 1 records in thread #0
+2012-03-05 12:03:11.542: Query completed in 2 milliseconds for cycle 32, thread #0
+2012-03-05 12:03:11.554: Starting 32th run in thread #7
+2012-03-05 12:03:11.558: Iterated through 1 records in thread #7
+2012-03-05 12:03:11.558: Query completed in 3 milliseconds for cycle 32, thread #7
+2012-03-05 12:03:11.558: Starting 32th run in thread #4
+2012-03-05 12:03:11.561: Iterated through 1 records in thread #4
+2012-03-05 12:03:11.561: Query completed in 2 milliseconds for cycle 32, thread #4
+2012-03-05 12:03:11.615: Starting 32th run in thread #1
+2012-03-05 12:03:11.620: Iterated through 1 records in thread #1
+2012-03-05 12:03:11.620: Query completed in 4 milliseconds for cycle 32, thread #1
+2012-03-05 12:03:11.629: Starting 32th run in thread #8
+2012-03-05 12:03:11.630: Starting 32th run in thread #5
+2012-03-05 12:03:11.632: Iterated through 1 records in thread #8
+2012-03-05 12:03:11.632: Query completed in 2 milliseconds for cycle 32, thread #8
+2012-03-05 12:03:11.637: Iterated through 1 records in thread #5
+2012-03-05 12:03:11.637: Query completed in 6 milliseconds for cycle 32, thread #5
+2012-03-05 12:03:11.689: Starting 32th run in thread #2
+2012-03-05 12:03:11.692: Iterated through 1 records in thread #2
+2012-03-05 12:03:11.692: Query completed in 2 milliseconds for cycle 32, thread #2
+2012-03-05 12:03:11.716: Starting 32th run in thread #9
+2012-03-05 12:03:11.721: Iterated through 1 records in thread #9
+2012-03-05 12:03:11.721: Query completed in 4 milliseconds for cycle 32, thread #9
+2012-03-05 12:03:14.275: Starting 33th run in thread #2
+2012-03-05 12:03:14.278: Iterated through 1 records in thread #2
+2012-03-05 12:03:14.278: Query completed in 2 milliseconds for cycle 33, thread #2
+2012-03-05 12:03:14.331: Starting 33th run in thread #0
+2012-03-05 12:03:14.334: Iterated through 1 records in thread #0
+2012-03-05 12:03:14.334: Query completed in 2 milliseconds for cycle 33, thread #0
+2012-03-05 12:03:14.334: Starting 33th run in thread #5
+2012-03-05 12:03:14.337: Iterated through 1 records in thread #5
+2012-03-05 12:03:14.337: Query completed in 2 milliseconds for cycle 33, thread #5
+2012-03-05 12:03:14.338: Starting 33th run in thread #7
+2012-03-05 12:03:14.341: Iterated through 1 records in thread #7
+2012-03-05 12:03:14.341: Query completed in 2 milliseconds for cycle 33, thread #7
+2012-03-05 12:03:14.390: Starting 33th run in thread #3
+2012-03-05 12:03:14.392: Iterated through 1 records in thread #3
+2012-03-05 12:03:14.392: Query completed in 2 milliseconds for cycle 33, thread #3
+2012-03-05 12:03:14.445: Starting 33th run in thread #1
+2012-03-05 12:03:14.448: Iterated through 1 records in thread #1
+2012-03-05 12:03:14.448: Query completed in 2 milliseconds for cycle 33, thread #1
+2012-03-05 12:03:14.451: Starting 33th run in thread #8
+2012-03-05 12:03:14.454: Iterated through 1 records in thread #8
+2012-03-05 12:03:14.454: Query completed in 2 milliseconds for cycle 33, thread #8
+2012-03-05 12:03:14.503: Starting 33th run in thread #4
+2012-03-05 12:03:14.507: Starting 33th run in thread #6
+2012-03-05 12:03:14.510: Iterated through 1 records in thread #6
+2012-03-05 12:03:14.510: Query completed in 2 milliseconds for cycle 33, thread #6
+2012-03-05 12:03:14.511: Iterated through 1 records in thread #4
+2012-03-05 12:03:14.511: Query completed in 7 milliseconds for cycle 33, thread #4
+2012-03-05 12:03:14.565: Starting 33th run in thread #9
+2012-03-05 12:03:14.568: Iterated through 1 records in thread #9
+2012-03-05 12:03:14.568: Query completed in 2 milliseconds for cycle 33, thread #9
+2012-03-05 12:03:17.092: Starting 34th run in thread #1
+2012-03-05 12:03:17.095: Iterated through 1 records in thread #1
+2012-03-05 12:03:17.095: Query completed in 3 milliseconds for cycle 34, thread #1
+2012-03-05 12:03:17.099: Starting 34th run in thread #2
+2012-03-05 12:03:17.102: Iterated through 1 records in thread #2
+2012-03-05 12:03:17.102: Query completed in 3 milliseconds for cycle 34, thread #2
+2012-03-05 12:03:17.107: Starting 34th run in thread #3
+2012-03-05 12:03:17.110: Iterated through 1 records in thread #3
+2012-03-05 12:03:17.110: Query completed in 3 milliseconds for cycle 34, thread #3
+2012-03-05 12:03:17.114: Starting 34th run in thread #4
+2012-03-05 12:03:17.117: Iterated through 1 records in thread #4
+2012-03-05 12:03:17.117: Query completed in 3 milliseconds for cycle 34, thread #4
+2012-03-05 12:03:17.122: Starting 34th run in thread #5
+2012-03-05 12:03:17.125: Iterated through 1 records in thread #5
+2012-03-05 12:03:17.125: Query completed in 3 milliseconds for cycle 34, thread #5
+2012-03-05 12:03:17.196: Starting 34th run in thread #6
+2012-03-05 12:03:17.200: Iterated through 1 records in thread #6
+2012-03-05 12:03:17.200: Query completed in 4 milliseconds for cycle 34, thread #6
+2012-03-05 12:03:17.204: Starting 34th run in thread #7
+2012-03-05 12:03:17.208: Iterated through 1 records in thread #7
+2012-03-05 12:03:17.208: Query completed in 4 milliseconds for cycle 34, thread #7
+2012-03-05 12:03:17.211: Starting 34th run in thread #8
+2012-03-05 12:03:17.214: Iterated through 1 records in thread #8
+2012-03-05 12:03:17.214: Query completed in 3 milliseconds for cycle 34, thread #8
+2012-03-05 12:03:17.219: Starting 34th run in thread #9
+2012-03-05 12:03:17.222: Iterated through 1 records in thread #9
+2012-03-05 12:03:17.222: Query completed in 3 milliseconds for cycle 34, thread #9
+2012-03-05 12:03:17.396: Starting 34th run in thread #0
+2012-03-05 12:03:17.399: Iterated through 1 records in thread #0
+2012-03-05 12:03:17.399: Query completed in 3 milliseconds for cycle 34, thread #0
+2012-03-05 12:03:20.219: Starting 35th run in thread #4
+2012-03-05 12:03:20.222: Iterated through 1 records in thread #4
+2012-03-05 12:03:20.222: Query completed in 3 milliseconds for cycle 35, thread #4
+2012-03-05 12:03:20.299: Starting 35th run in thread #7
+2012-03-05 12:03:20.302: Iterated through 1 records in thread #7
+2012-03-05 12:03:20.302: Query completed in 3 milliseconds for cycle 35, thread #7
+2012-03-05 12:03:20.313: Starting 35th run in thread #2
+2012-03-05 12:03:20.317: Iterated through 1 records in thread #2
+2012-03-05 12:03:20.317: Query completed in 4 milliseconds for cycle 35, thread #2
+2012-03-05 12:03:20.327: Starting 35th run in thread #5
+2012-03-05 12:03:20.330: Iterated through 1 records in thread #5
+2012-03-05 12:03:20.330: Query completed in 3 milliseconds for cycle 35, thread #5
+2012-03-05 12:03:20.407: Starting 35th run in thread #0
+2012-03-05 12:03:20.410: Iterated through 1 records in thread #0
+2012-03-05 12:03:20.410: Query completed in 3 milliseconds for cycle 35, thread #0
+2012-03-05 12:03:20.410: Starting 35th run in thread #8
+2012-03-05 12:03:20.413: Iterated through 1 records in thread #8
+2012-03-05 12:03:20.413: Query completed in 3 milliseconds for cycle 35, thread #8
+2012-03-05 12:03:20.422: Starting 35th run in thread #3
+2012-03-05 12:03:20.425: Iterated through 1 records in thread #3
+2012-03-05 12:03:20.425: Query completed in 3 milliseconds for cycle 35, thread #3
+2012-03-05 12:03:20.502: Starting 35th run in thread #6
+2012-03-05 12:03:20.505: Iterated through 1 records in thread #6
+2012-03-05 12:03:20.505: Query completed in 3 milliseconds for cycle 35, thread #6
+2012-03-05 12:03:20.516: Starting 35th run in thread #9
+2012-03-05 12:03:20.516: Starting 35th run in thread #1
+2012-03-05 12:03:20.518: Iterated through 1 records in thread #9
+2012-03-05 12:03:20.518: Query completed in 2 milliseconds for cycle 35, thread #9
+2012-03-05 12:03:20.521: Iterated through 1 records in thread #1
+2012-03-05 12:03:20.521: Query completed in 5 milliseconds for cycle 35, thread #1
+2012-03-05 12:03:23.398: Starting 36th run in thread #6
+2012-03-05 12:03:23.401: Iterated through 1 records in thread #6
+2012-03-05 12:03:23.401: Query completed in 3 milliseconds for cycle 36, thread #6
+2012-03-05 12:03:23.412: Starting 36th run in thread #7
+2012-03-05 12:03:23.415: Iterated through 1 records in thread #7
+2012-03-05 12:03:23.415: Query completed in 3 milliseconds for cycle 36, thread #7
+2012-03-05 12:03:23.425: Starting 36th run in thread #8
+2012-03-05 12:03:23.429: Iterated through 1 records in thread #8
+2012-03-05 12:03:23.429: Query completed in 4 milliseconds for cycle 36, thread #8
+2012-03-05 12:03:23.449: Starting 36th run in thread #9
+2012-03-05 12:03:23.452: Iterated through 1 records in thread #9
+2012-03-05 12:03:23.452: Query completed in 3 milliseconds for cycle 36, thread #9
+2012-03-05 12:03:23.564: Starting 36th run in thread #0
+2012-03-05 12:03:23.567: Iterated through 1 records in thread #0
+2012-03-05 12:03:23.567: Query completed in 3 milliseconds for cycle 36, thread #0
+2012-03-05 12:03:23.577: Starting 36th run in thread #1
+2012-03-05 12:03:23.580: Iterated through 1 records in thread #1
+2012-03-05 12:03:23.580: Query completed in 3 milliseconds for cycle 36, thread #1
+2012-03-05 12:03:23.591: Starting 36th run in thread #2
+2012-03-05 12:03:23.594: Iterated through 1 records in thread #2
+2012-03-05 12:03:23.594: Query completed in 3 milliseconds for cycle 36, thread #2
+2012-03-05 12:03:23.604: Starting 36th run in thread #3
+2012-03-05 12:03:23.607: Iterated through 1 records in thread #3
+2012-03-05 12:03:23.607: Query completed in 2 milliseconds for cycle 36, thread #3
+2012-03-05 12:03:23.618: Starting 36th run in thread #4
+2012-03-05 12:03:23.621: Iterated through 1 records in thread #4
+2012-03-05 12:03:23.621: Query completed in 3 milliseconds for cycle 36, thread #4
+2012-03-05 12:03:23.632: Starting 36th run in thread #5
+2012-03-05 12:03:23.637: Iterated through 1 records in thread #5
+2012-03-05 12:03:23.637: Query completed in 5 milliseconds for cycle 36, thread #5
+2012-03-05 12:03:26.456: Starting 37th run in thread #0
+2012-03-05 12:03:26.458: Iterated through 1 records in thread #0
+2012-03-05 12:03:26.458: Query completed in 2 milliseconds for cycle 37, thread #0
+2012-03-05 12:03:26.500: Starting 37th run in thread #5
+2012-03-05 12:03:26.502: Iterated through 1 records in thread #5
+2012-03-05 12:03:26.502: Query completed in 2 milliseconds for cycle 37, thread #5
+2012-03-05 12:03:26.511: Starting 37th run in thread #6
+2012-03-05 12:03:26.514: Iterated through 1 records in thread #6
+2012-03-05 12:03:26.514: Query completed in 3 milliseconds for cycle 37, thread #6
+2012-03-05 12:03:26.554: Starting 37th run in thread #4
+2012-03-05 12:03:26.557: Iterated through 1 records in thread #4
+2012-03-05 12:03:26.557: Query completed in 3 milliseconds for cycle 37, thread #4
+2012-03-05 12:03:26.606: Starting 37th run in thread #3
+2012-03-05 12:03:26.608: Iterated through 1 records in thread #3
+2012-03-05 12:03:26.608: Query completed in 2 milliseconds for cycle 37, thread #3
+2012-03-05 12:03:26.660: Starting 37th run in thread #2
+2012-03-05 12:03:26.663: Iterated through 1 records in thread #2
+2012-03-05 12:03:26.663: Query completed in 3 milliseconds for cycle 37, thread #2
+2012-03-05 12:03:26.663: Starting 37th run in thread #9
+2012-03-05 12:03:26.665: Iterated through 1 records in thread #9
+2012-03-05 12:03:26.665: Query completed in 2 milliseconds for cycle 37, thread #9
+2012-03-05 12:03:26.714: Starting 37th run in thread #1
+2012-03-05 12:03:26.717: Iterated through 1 records in thread #1
+2012-03-05 12:03:26.717: Query completed in 3 milliseconds for cycle 37, thread #1
+2012-03-05 12:03:26.717: Starting 37th run in thread #8
+2012-03-05 12:03:26.720: Iterated through 1 records in thread #8
+2012-03-05 12:03:26.720: Query completed in 3 milliseconds for cycle 37, thread #8
+2012-03-05 12:03:26.769: Starting 37th run in thread #7
+2012-03-05 12:03:26.772: Iterated through 1 records in thread #7
+2012-03-05 12:03:26.772: Query completed in 3 milliseconds for cycle 37, thread #7
+2012-03-05 12:03:29.800: Starting 38th run in thread #1
+2012-03-05 12:03:29.802: Iterated through 1 records in thread #1
+2012-03-05 12:03:29.802: Query completed in 2 milliseconds for cycle 38, thread #1
+2012-03-05 12:03:29.816: Starting 38th run in thread #4
+2012-03-05 12:03:29.819: Iterated through 1 records in thread #4
+2012-03-05 12:03:29.819: Query completed in 3 milliseconds for cycle 38, thread #4
+2012-03-05 12:03:29.903: Starting 38th run in thread #7
+2012-03-05 12:03:29.906: Iterated through 1 records in thread #7
+2012-03-05 12:03:29.906: Query completed in 3 milliseconds for cycle 38, thread #7
+2012-03-05 12:03:29.909: Starting 38th run in thread #0
+2012-03-05 12:03:29.912: Iterated through 1 records in thread #0
+2012-03-05 12:03:29.912: Query completed in 2 milliseconds for cycle 38, thread #0
+2012-03-05 12:03:29.925: Starting 38th run in thread #3
+2012-03-05 12:03:29.928: Iterated through 1 records in thread #3
+2012-03-05 12:03:29.928: Query completed in 3 milliseconds for cycle 38, thread #3
+2012-03-05 12:03:30.011: Starting 38th run in thread #6
+2012-03-05 12:03:30.014: Iterated through 1 records in thread #6
+2012-03-05 12:03:30.014: Query completed in 3 milliseconds for cycle 38, thread #6
+2012-03-05 12:03:30.027: Starting 38th run in thread #9
+2012-03-05 12:03:30.031: Iterated through 1 records in thread #9
+2012-03-05 12:03:30.031: Query completed in 4 milliseconds for cycle 38, thread #9
+2012-03-05 12:03:30.034: Starting 38th run in thread #2
+2012-03-05 12:03:30.038: Iterated through 1 records in thread #2
+2012-03-05 12:03:30.038: Query completed in 3 milliseconds for cycle 38, thread #2
+2012-03-05 12:03:30.049: Starting 38th run in thread #5
+2012-03-05 12:03:30.053: Iterated through 1 records in thread #5
+2012-03-05 12:03:30.053: Query completed in 4 milliseconds for cycle 38, thread #5
+2012-03-05 12:03:30.135: Starting 38th run in thread #8
+2012-03-05 12:03:30.137: Iterated through 1 records in thread #8
+2012-03-05 12:03:30.137: Query completed in 2 milliseconds for cycle 38, thread #8
+2012-03-05 12:03:33.220: Starting 39th run in thread #4
+2012-03-05 12:03:33.224: Iterated through 1 records in thread #4
+2012-03-05 12:03:33.224: Query completed in 3 milliseconds for cycle 39, thread #4
+2012-03-05 12:03:33.278: Starting 39th run in thread #5
+2012-03-05 12:03:33.282: Iterated through 1 records in thread #5
+2012-03-05 12:03:33.282: Query completed in 3 milliseconds for cycle 39, thread #5
+2012-03-05 12:03:33.328: Starting 39th run in thread #0
+2012-03-05 12:03:33.332: Iterated through 1 records in thread #0
+2012-03-05 12:03:33.332: Query completed in 4 milliseconds for cycle 39, thread #0
+2012-03-05 12:03:33.389: Starting 39th run in thread #1
+2012-03-05 12:03:33.393: Iterated through 1 records in thread #1
+2012-03-05 12:03:33.393: Query completed in 4 milliseconds for cycle 39, thread #1
+2012-03-05 12:03:33.409: Starting 39th run in thread #6
+2012-03-05 12:03:33.412: Iterated through 1 records in thread #6
+2012-03-05 12:03:33.412: Query completed in 3 milliseconds for cycle 39, thread #6
+2012-03-05 12:03:33.445: Starting 39th run in thread #2
+2012-03-05 12:03:33.449: Iterated through 1 records in thread #2
+2012-03-05 12:03:33.449: Query completed in 4 milliseconds for cycle 39, thread #2
+2012-03-05 12:03:33.467: Starting 39th run in thread #7
+2012-03-05 12:03:33.470: Iterated through 1 records in thread #7
+2012-03-05 12:03:33.470: Query completed in 3 milliseconds for cycle 39, thread #7
+2012-03-05 12:03:33.505: Starting 39th run in thread #3
+2012-03-05 12:03:33.508: Iterated through 1 records in thread #3
+2012-03-05 12:03:33.508: Query completed in 3 milliseconds for cycle 39, thread #3
+2012-03-05 12:03:33.526: Starting 39th run in thread #8
+2012-03-05 12:03:33.530: Iterated through 1 records in thread #8
+2012-03-05 12:03:33.530: Query completed in 3 milliseconds for cycle 39, thread #8
+2012-03-05 12:03:33.586: Starting 39th run in thread #9
+2012-03-05 12:03:33.590: Iterated through 1 records in thread #9
+2012-03-05 12:03:33.590: Query completed in 4 milliseconds for cycle 39, thread #9
+2012-03-05 12:03:36.673: Starting 40th run in thread #2
+2012-03-05 12:03:36.678: Iterated through 1 records in thread #2
+2012-03-05 12:03:36.678: Query completed in 4 milliseconds for cycle 40, thread #2
+2012-03-05 12:03:36.720: Starting 40th run in thread #4
+2012-03-05 12:03:36.723: Iterated through 1 records in thread #4
+2012-03-05 12:03:36.723: Query completed in 3 milliseconds for cycle 40, thread #4
+2012-03-05 12:03:36.737: Starting 40th run in thread #9
+2012-03-05 12:03:36.739: Iterated through 1 records in thread #9
+2012-03-05 12:03:36.739: Query completed in 2 milliseconds for cycle 40, thread #9
+2012-03-05 12:03:36.822: Starting 40th run in thread #1
+2012-03-05 12:03:36.824: Iterated through 1 records in thread #1
+2012-03-05 12:03:36.824: Query completed in 2 milliseconds for cycle 40, thread #1
+2012-03-05 12:03:36.838: Starting 40th run in thread #6
+2012-03-05 12:03:36.842: Iterated through 1 records in thread #6
+2012-03-05 12:03:36.842: Query completed in 3 milliseconds for cycle 40, thread #6
+2012-03-05 12:03:36.869: Starting 40th run in thread #3
+2012-03-05 12:03:36.873: Iterated through 1 records in thread #3
+2012-03-05 12:03:36.873: Query completed in 4 milliseconds for cycle 40, thread #3
+2012-03-05 12:03:36.884: Starting 40th run in thread #8
+2012-03-05 12:03:36.888: Iterated through 1 records in thread #8
+2012-03-05 12:03:36.888: Query completed in 3 milliseconds for cycle 40, thread #8
+2012-03-05 12:03:36.914: Starting 40th run in thread #5
+2012-03-05 12:03:36.917: Iterated through 1 records in thread #5
+2012-03-05 12:03:36.917: Query completed in 2 milliseconds for cycle 40, thread #5
+2012-03-05 12:03:36.970: Starting 40th run in thread #0
+2012-03-05 12:03:36.974: Iterated through 1 records in thread #0
+2012-03-05 12:03:36.974: Query completed in 3 milliseconds for cycle 40, thread #0
+2012-03-05 12:03:37.033: Starting 40th run in thread #7
+2012-03-05 12:03:37.036: Iterated through 1 records in thread #7
+2012-03-05 12:03:37.036: Query completed in 3 milliseconds for cycle 40, thread #7
+2012-03-05 12:03:40.210: Starting 41th run in thread #2
+2012-03-05 12:03:40.213: Iterated through 1 records in thread #2
+2012-03-05 12:03:40.213: Query completed in 3 milliseconds for cycle 41, thread #2
+2012-03-05 12:03:40.296: Starting 41th run in thread #1
+2012-03-05 12:03:40.301: Iterated through 1 records in thread #1
+2012-03-05 12:03:40.301: Query completed in 4 milliseconds for cycle 41, thread #1
+2012-03-05 12:03:40.314: Starting 41th run in thread #6
+2012-03-05 12:03:40.318: Iterated through 1 records in thread #6
+2012-03-05 12:03:40.318: Query completed in 3 milliseconds for cycle 41, thread #6
+2012-03-05 12:03:40.325: Starting 41th run in thread #5
+2012-03-05 12:03:40.329: Iterated through 1 records in thread #5
+2012-03-05 12:03:40.329: Query completed in 3 milliseconds for cycle 41, thread #5
+2012-03-05 12:03:40.385: Starting 41th run in thread #0
+2012-03-05 12:03:40.388: Iterated through 1 records in thread #0
+2012-03-05 12:03:40.388: Query completed in 2 milliseconds for cycle 41, thread #0
+2012-03-05 12:03:40.412: Starting 41th run in thread #4
+2012-03-05 12:03:40.416: Iterated through 1 records in thread #4
+2012-03-05 12:03:40.416: Query completed in 3 milliseconds for cycle 41, thread #4
+2012-03-05 12:03:40.428: Starting 41th run in thread #9
+2012-03-05 12:03:40.432: Iterated through 1 records in thread #9
+2012-03-05 12:03:40.432: Query completed in 3 milliseconds for cycle 41, thread #9
+2012-03-05 12:03:40.500: Starting 41th run in thread #3
+2012-03-05 12:03:40.503: Iterated through 1 records in thread #3
+2012-03-05 12:03:40.503: Query completed in 3 milliseconds for cycle 41, thread #3
+2012-03-05 12:03:40.517: Starting 41th run in thread #8
+2012-03-05 12:03:40.521: Iterated through 1 records in thread #8
+2012-03-05 12:03:40.521: Query completed in 3 milliseconds for cycle 41, thread #8
+2012-03-05 12:03:40.604: Starting 41th run in thread #7
+2012-03-05 12:03:40.608: Iterated through 1 records in thread #7
+2012-03-05 12:03:40.608: Query completed in 3 milliseconds for cycle 41, thread #7
+2012-03-05 12:03:43.950: Ending time detected for thread #1
+2012-03-05 12:03:43.950: Ending time detected for thread #2
+2012-03-05 12:03:43.950: Ending time detected for thread #3
+2012-03-05 12:03:43.950: Ending time detected for thread #0
+2012-03-05 12:03:43.950: Ending time detected for thread #4
+2012-03-05 12:03:43.950: Ending time detected for thread #5
+2012-03-05 12:03:43.953: Finished calling thread #5
+2012-03-05 12:03:43.953: Finished calling thread #4
+2012-03-05 12:03:43.953: Finished calling thread #2
+2012-03-05 12:03:43.953: Finished calling thread #3
+2012-03-05 12:03:43.955: Finished calling thread #0
+2012-03-05 12:03:43.955: Finished calling thread #1
+2012-03-05 12:03:44.029: Ending time detected for thread #7
+2012-03-05 12:03:44.029: Ending time detected for thread #6
+2012-03-05 12:03:44.029: Ending time detected for thread #8
+2012-03-05 12:03:44.029: Ending time detected for thread #9
+2012-03-05 12:03:44.030: Finished calling thread #9
+2012-03-05 12:03:44.030: Finished calling thread #7
+2012-03-05 12:03:44.031: Finished calling thread #8
+2012-03-05 12:03:44.031: Finished calling thread #6
+2012-03-05 12:03:47.127: Finished all threads, exiting app.
+===========================================================
+                    S T A T I S T I C S                    
+-----------------------------------------------------------
+Total number of database queries executed: 410
+Maximum response time observed:   699 ms
+Minimum response time observed:   1 ms
+Average response time observed:   11.9731707317073 ms
+(Used 10 client connections during 4.909 secs.)
